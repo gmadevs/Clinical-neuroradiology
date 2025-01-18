@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  18 JAN 2025 17:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  18 JAN 2025 18:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1926,20 +1926,6 @@ Package hyperref Info: Link coloring ON on input line 16.
 
 
 (./FileAusiliari/Titolo.tex
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-
- []
-
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@none' on input line 14.
@@ -1961,119 +1947,6 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}])
-(./FileAusiliari/Titolo2.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@none' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\c@page' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@none' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 1.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1 \begin{titlepage}
-                      [2
-
-]
-<FileAusiliari/Logo/MarchioBlack.pdf, id=61, 566.115pt x 302.12875pt>
-File: FileAusiliari/Logo/MarchioBlack.pdf Graphic file (type pdf)
-<use FileAusiliari/Logo/MarchioBlack.pdf>
-Package pdftex.def Info: FileAusiliari/Logo/MarchioBlack.pdf  used on input lin
-e 5.
-(pdftex.def)             Requested size: 339.67162pt x 181.27864pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-2.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-2.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-12.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-12.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 12.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 12.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 12.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
-
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
-
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 12
-.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-LaTeX Font Info:    Trying to load font information for U+zavm on input line 12
-.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/arev/uzavm.fd
-File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@none' on input line 55.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\c@page' on input line 55.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@none' on input line 55.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 55.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.55 \end{titlepage}
-                     [1 <./FileAusiliari/Logo/MarchioBlack.pdf>])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@none' on input line 23.
@@ -2196,15 +2069,64 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ] [4]
 (./Appendici/AppendiceA.tex
 Appendice A.
-) [5
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+2.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+2.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
+
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+zavm on input line 2.
+
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/arev/uzavm.fd
+File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
+)) [5
 
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/loca
 l/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024
 /texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [6
 
-]
-(./neuroradiologia_clinica.bbl
+] (./neuroradiologia_clinica.bbl
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 1.
 
@@ -2226,30 +2148,29 @@ L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
-(rerunfilecheck)             Checksum: 12C82AB5CB9BF93779300C5571194580;434.
+(rerunfilecheck)             Checksum: A0C0A14A0FEF5731E84E969F9B0469D9;434.
  ) 
 Here is how much of TeX's memory you used:
- 53702 strings out of 474116
- 1259471 string characters out of 5743682
+ 53672 strings out of 474116
+ 1258586 string characters out of 5743682
  2055492 words of memory out of 5000000
- 74830 multiletter control sequences out of 15000+600000
- 637410 words of font info for 82 fonts, out of 8000000 for 9000
+ 74805 multiletter control sequences out of 15000+600000
+ 634615 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,11n,145p,847b,705s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texli
-ve/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024/te
-xmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2024/texmf-dist/fo
-nts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/p
-ublic/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lm
-r9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/t
-exlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/202
-4/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on neuroradiologia_clinica.pdf (17 pages, 237293 bytes).
+cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2024/texm
+f-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/font
+s/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
+lic/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri1
+0.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/te
+xlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on neuroradiologia_clinica.pdf (15 pages, 174036 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 

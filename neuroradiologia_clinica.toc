@@ -1,10 +1,10 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
-\contentsline {part}{Introduzione}{III}{chapter*.3}%
+\contentsline {part}{Introduzione}{III}{chapter*.2}%
 \ttl@change@i {\@ne }{chapter}{2.5pc}{\addvspace {15pt}}{\begin {tikzpicture} \pgftext {\LArge \bfseries \bfseries \color {black}\hspace {-1cm} Appendice\ \thecontentslabel {\color {white}.}\hspace {.5cm} } \end {tikzpicture}\Large }{}{\color {black}\titlerule \; \;\Large \bfseries Pagina \thecontentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
 \contentsline {chapter}{\numberline {A}Titolo}{5}{appendix.alph1.Alph1}%
-\contentsline {part}{Bibliografia}{7}{appendix*.6}%
-\contentsline {part}{Indice analitico}{9}{appendix*.7}%
+\contentsline {part}{Bibliografia}{7}{appendix*.5}%
+\contentsline {part}{Indice analitico}{9}{appendix*.6}%
 \contentsfinish 
