@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  18 JAN 2025 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  18 JAN 2025 17:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1987,7 +1987,7 @@ l.1 \begin{titlepage}
                       [2
 
 ]
-<FileAusiliari/Logo/MarchioBlack.pdf, id=133, 566.115pt x 302.12875pt>
+<FileAusiliari/Logo/MarchioBlack.pdf, id=61, 566.115pt x 302.12875pt>
 File: FileAusiliari/Logo/MarchioBlack.pdf Graphic file (type pdf)
 <use FileAusiliari/Logo/MarchioBlack.pdf>
 Package pdftex.def Info: FileAusiliari/Logo/MarchioBlack.pdf  used on input lin
@@ -2149,333 +2149,14 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 
 
-] [2] (./Capitoli/Capitolo1.tex
-Capitolo 1.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
-.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Package hyperref Info: bookmark level for unknown The defaults to 0 on input li
-ne 6.
-Package hyperref Info: bookmark level for unknown Proof defaults to 0 on input 
-line 11.
-Package hyperref Info: bookmark level for unknown Pro defaults to 0 on input li
-ne 16.
-Package hyperref Info: bookmark level for unknown Le defaults to 0 on input lin
-e 21.
-Package hyperref Info: bookmark level for unknown Co defaults to 0 on input lin
-e 26.
- [3
-
-
-]
-Package hyperref Info: bookmark level for unknown De defaults to 0 on input lin
-e 32.
-
-
-LaTeX Warning: Characters dropped after `\end{verbatim}' on input line 36.
-
-Package mdframed Info: mdframed works in twoside mode on input line 41.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 41.
-Package hyperref Info: bookmark level for unknown Oss defaults to 0 on input li
-ne 41.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 41.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 41.
-[4]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 58.
-LaTeX Font Info:    Calculating math sizes for size <5.6> on input line 74.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.6> on input line 74.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <3.91998> on input line 74.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <2.8> on input line 74.
-
-
-LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <3.91998> not available
-(Font)              size <5> substituted on input line 74.
-
-
-LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <2.8> not available
-(Font)              size <5> substituted on input line 74.
-
-
-Underfull \hbox (badness 3189) in paragraph at lines 74--74
-[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne:
- []
-
-
-Underfull \hbox (badness 1253) in paragraph at lines 74--74
-\T1/lmr/m/n/5.6 de-fi-ni-zio-ni, teo-re-
- []
-
-
-Underfull \hbox (badness 6658) in paragraph at lines 77--77
-\T1/lmr/m/n/5.6 ver-sio-ne con un
- []
-
-
-Underfull \hbox (badness 5302) in paragraph at lines 77--77
-\T1/lmr/m/n/5.6 spie-ga-re pas-sag-gi
- []
-
-[5{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-
-LaTeX Warning: Characters dropped after `\end{verbatim}' on input line 82.
-
-) (./Capitoli/Capitolo2.tex [6]
-Capitolo 2.
-
-Overfull \hbox (32.25258pt too wide) in alignment at lines 69--69
- [] [] [] 
- []
-
-LaTeX Font Info:    Trying to load font information for U+euf on input line 69.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/ueuf.fd
-File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-) [7
-
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/loca
-l/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024
-/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
-Overfull \hbox (18.99075pt too wide) in paragraph at lines 118--118
-[]\T1/lmtt/m/n/10 \begin{TitoloIntro}[colbacktitle=red, width=\textwidth]{Titol
-o}{Riquadro}\end{TitoloIntro} 
- []
-
-[8]
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 130
-.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 130
-.
-
-Package mdframed Info: mdframed works in twoside mode on input line 134.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 134.
-Package hyperref Info: bookmark level for unknown Boxed defaults to 0 on input 
-line 134.
-
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 140--140
-$[]$  $[]$ 
- []
-
-
-Overfull \hbox (13.83572pt too wide) detected at line 159
-[]
- []
-
-
-Overfull \hbox (16.23572pt too wide) detected at line 168
-[]
- []
-
-
-Overfull \hbox (19.30753pt too wide) detected at line 176
-[]
- []
-
-
-Overfull \hbox (5.4191pt too wide) detected at line 192
-[]
- []
-
-
-Overfull \hbox (15.28253pt too wide) detected at line 200
-[]
- []
-
-
-Overfull \hbox (17.62016pt too wide) detected at line 208
-[]
- []
-
-
-Overfull \hbox (13.83499pt too wide) detected at line 215
-[]
- []
-
-[9]) (./Capitoli/Capitolo3.tex [10]
-Capitolo 3.
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 26.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 26.
-
-
-[11
-
-]
-<FileAusiliari/Screenshots/Figura3-1.png, id=325, 976.64874pt x 586.19pt>
-File: FileAusiliari/Screenshots/Figura3-1.png Graphic file (type png)
-<use FileAusiliari/Screenshots/Figura3-1.png>
-Package pdftex.def Info: FileAusiliari/Screenshots/Figura3-1.png  used on input
- line 54.
-(pdftex.def)             Requested size: 390.65257pt x 234.47185pt.
-
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.84949pt}.
-
-[12 <./FileAusiliari/Screenshots/Figura3-1.png>]
-<FileAusiliari/Screenshots/Figura3-2.png, id=334, 601.24625pt x 592.2125pt>
-File: FileAusiliari/Screenshots/Figura3-2.png Graphic file (type png)
-<use FileAusiliari/Screenshots/Figura3-2.png>
-Package pdftex.def Info: FileAusiliari/Screenshots/Figura3-2.png  used on input
- line 77.
-(pdftex.def)             Requested size: 240.49423pt x 236.8808pt.
-
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.84949pt}.
-
-[13 <./FileAusiliari/Screenshots/Figura3-2.png>]
-<FileAusiliari/Screenshots/Figura3-3.png, id=341, 519.9425pt x 519.9425pt>
-File: FileAusiliari/Screenshots/Figura3-3.png Graphic file (type png)
-<use FileAusiliari/Screenshots/Figura3-3.png>
-Package pdftex.def Info: FileAusiliari/Screenshots/Figura3-3.png  used on input
- line 104.
-(pdftex.def)             Requested size: 259.97061pt x 259.97061pt.
-
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.84949pt}.
-
-[14 <./FileAusiliari/Screenshots/Figura3-3.png>]
-Overfull \hbox (8.49078pt too wide) in paragraph at lines 112--112
-[]\T1/lmtt/m/n/10 \addplot[red, patch type sampling, patch type= cubic spline, 
-domain=0:2, smooth]{ln(x)};[] 
- []
-
-<FileAusiliari/Screenshots/Figura3-4.png, id=348, 683.55376pt x 654.445pt>
-File: FileAusiliari/Screenshots/Figura3-4.png Graphic file (type png)
-<use FileAusiliari/Screenshots/Figura3-4.png>
-Package pdftex.def Info: FileAusiliari/Screenshots/Figura3-4.png  used on input
- line 121.
-(pdftex.def)             Requested size: 341.77605pt x 327.2217pt.
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.84949pt}.
-
-[15 <./FileAusiliari/Screenshots/Figura3-4.png>]
-<FileAusiliari/Screenshots/Figura3-5.png, id=355, 440.64626pt x 425.59pt>
-File: FileAusiliari/Screenshots/Figura3-5.png Graphic file (type png)
-<use FileAusiliari/Screenshots/Figura3-5.png>
-Package pdftex.def Info: FileAusiliari/Screenshots/Figura3-5.png  used on input
- line 140.
-(pdftex.def)             Requested size: 264.38979pt x 255.35596pt.
-
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.84949pt}.
-
-[16 <./FileAusiliari/Screenshots/Figura3-5.png>]
-Overfull \hbox (13.74077pt too wide) in paragraph at lines 150--150
-[]\T1/lmtt/m/n/10 \addplot[line join=round, green] coordinates {(1, 0) (1,.75) 
-(3, 0.9) (4, .75) (5, 0.8)};[] 
- []
-
-
-Overfull \hbox (3.2408pt too wide) in paragraph at lines 151--151
-[]\T1/lmtt/m/n/10 \addplot[line join=bevel, blue] coordinates {(0, 0) (1, 0.4) 
-(3, 0.2) (4, 1) (5, 0.9)};[] 
- []
-
-<FileAusiliari/Screenshots/Figura3-6.png, id=362, 517.935pt x 425.59pt>
-File: FileAusiliari/Screenshots/Figura3-6.png Graphic file (type png)
-<use FileAusiliari/Screenshots/Figura3-6.png>
-Package pdftex.def Info: FileAusiliari/Screenshots/Figura3-6.png  used on input
- line 163.
-(pdftex.def)             Requested size: 258.96686pt x 212.79446pt.
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.84949pt}.
-
-[17 <./FileAusiliari/Screenshots/Figura3-6.png>]
-<FileAusiliari/Screenshots/Figura3-7.png, id=370, 569.12625pt x 518.93875pt>
-File: FileAusiliari/Screenshots/Figura3-7.png Graphic file (type png)
-<use FileAusiliari/Screenshots/Figura3-7.png>
-Package pdftex.def Info: FileAusiliari/Screenshots/Figura3-7.png  used on input
- line 185.
-(pdftex.def)             Requested size: 284.56242pt x 259.46873pt.
-
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.84949pt}.
-
-[18 <./FileAusiliari/Screenshots/Figura3-7.png>]
-<FileAusiliari/Screenshots/Figura3-8.png, id=377, 579.16376pt x 565.11125pt>
-File: FileAusiliari/Screenshots/Figura3-8.png Graphic file (type png)
-<use FileAusiliari/Screenshots/Figura3-8.png>
-Package pdftex.def Info: FileAusiliari/Screenshots/Figura3-8.png  used on input
- line 205.
-(pdftex.def)             Requested size: 347.50093pt x 339.06937pt.
-
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.84949pt}.
-
-[19 <./FileAusiliari/Screenshots/Figura3-8.png>]
-<FileAusiliari/Screenshots/Figura3-9.png, id=384, 650.43pt x 727.71875pt>
-File: FileAusiliari/Screenshots/Figura3-9.png Graphic file (type png)
-<use FileAusiliari/Screenshots/Figura3-9.png>
-Package pdftex.def Info: FileAusiliari/Screenshots/Figura3-9.png  used on input
- line 252.
-(pdftex.def)             Requested size: 162.6071pt x 181.92923pt.
-)
-
-Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.84949pt}.
-
-[20 <./FileAusiliari/Screenshots/Figura3-9.png>]
+] [2] (./Capitoli/anatomia/main.tex) (./Capitoli/vascolare/main.tex)
+(./Capitoli/trauma/main.tex) (./Capitoli/csf/main.tex)
+(./Capitoli/infettivo/main.tex) (./Capitoli/infiammatorio/main.tex)
+(./Capitoli/epilessia/main.tex) (./Capitoli/neoplasie/main.tex)
+(./Capitoli/degenerative/main.tex) (./Capitoli/metaboliche/main.tex)
+(./Capitoli/rachide/main.tex) (./Capitoli/periferico/main.tex)
+(./Capitoli/orbite/main.tex) (./Capitoli/chirurgiche/main.tex)
+(./Capitoli/rocche/main.tex) (./Capitoli/sella/main.tex)
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2508,77 +2189,67 @@ Package fancyhdr Warning: \headheight is too small (21.0pt):
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [21
+ [3
 
 
-] [22]
+
+] [4]
 (./Appendici/AppendiceA.tex
 Appendice A.
-) [23
+) [5
 
 
-] [24
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/loca
+l/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024
+/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [6
 
-] (./neuroradiologia_clinica.bbl) [25
+]
+(./neuroradiologia_clinica.bbl
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+1.
 
-] [26
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) [7
+
+] [8
 
 ]
 runsystem(makeindex -s FileAusiliari/Stile.ist neuroradiologia_clinica.idx)...e
 xecuted safely (allowed).
 
 
-(./neuroradiologia_clinica.ind) [27] (./neuroradiologia_clinica.aux)
+(./neuroradiologia_clinica.ind) [9] (./neuroradiologia_clinica.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 2.2pt have occurred.
-
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
-(rerunfilecheck)             Checksum: 08F14A038EE5ADA96463FC66EEFE6024;4058.
+(rerunfilecheck)             Checksum: 12C82AB5CB9BF93779300C5571194580;434.
  ) 
 Here is how much of TeX's memory you used:
- 54164 strings out of 474116
- 1268590 string characters out of 5743682
- 2074937 words of memory out of 5000000
- 75230 multiletter control sequences out of 15000+600000
- 720600 words of font info for 151 fonts, out of 8000000 for 9000
+ 53702 strings out of 474116
+ 1259471 string characters out of 5743682
+ 2055492 words of memory out of 5000000
+ 74830 multiletter control sequences out of 15000+600000
+ 637410 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,22n,145p,847b,1357s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.
-pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texl
-ive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/te
-xmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/
-fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type
-1/public/lm/lmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/l
-m/lmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi7.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2
-024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2024/texmf-di
-st/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/typ
-e1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm
-/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2
-024/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2024/texmf-
-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fon
-ts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/p
-ublic/lm/lmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lm
-sy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/t
-exlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/loc
-al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
-/local/texlive/2024/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on neuroradiologia_clinica.pdf (35 pages, 1537389 bytes).
+ 116i,11n,145p,847b,705s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texli
+ve/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024/te
+xmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2024/texmf-dist/fo
+nts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/p
+ublic/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lm
+r9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/t
+exlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/202
+4/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on neuroradiologia_clinica.pdf (17 pages, 237293 bytes).
 PDF statistics:
- 579 PDF objects out of 1000 (max. 8388607)
- 419 compressed objects within 5 object streams
- 91 named destinations out of 1000 (max. 500000)
- 351 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 212 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
