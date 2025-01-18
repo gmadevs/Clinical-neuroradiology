@@ -1,0 +1,16 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{Cogno}
+
+\bibitem[Cog]{LabelUrl}
+N.~Cognome, \emph{Titolo}, \url{https://poisson.phc.dm.unipi.it/~puddu}.
+
+\bibitem[Cogno]{Label}
+\bysame, \emph{Titolo}, Publisher, Anno.
+
+\end{thebibliography}
