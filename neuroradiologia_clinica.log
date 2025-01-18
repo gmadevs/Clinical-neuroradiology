@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  18 JAN 2025 18:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  18 JAN 2025 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2131,9 +2131,48 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [5
 
-] [6] (./Appendici/AppendiceA.tex
+] [6]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(99.58464pt, 645.87756pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=645.87756pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=27.31465pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=0.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [7
+
+
+
+
+
+] [8] (./Appendici/AppendiceA.tex
 Appendice A.
-) [7
+) [9
 
 
 
@@ -2142,14 +2181,14 @@ l/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024
 /texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}
 
 ]
-(./neuroradiologia_clinica.bbl [8
+(./neuroradiologia_clinica.bbl [10
 
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 10.
 
-) [9
+) [11
 
 
 ]
@@ -2159,7 +2198,7 @@ xecuted safely (allowed).
  (./neuroradiologia_clinica.ind)
 Overfull \vbox (100.5pt too high) has occurred while \output is active []
 
- [10
+ [12
 
 ]
 (./neuroradiologia_clinica.aux)
@@ -2169,13 +2208,13 @@ L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
-(rerunfilecheck)             Checksum: 0E68AF4631026FE8E684BCCE05711A7A;2017.
+(rerunfilecheck)             Checksum: 6A224A186827E9FB2628DD3A818E0710;2017.
  ) 
 Here is how much of TeX's memory you used:
- 53574 strings out of 474116
- 1256855 string characters out of 5743682
- 2056408 words of memory out of 5000000
- 74691 multiletter control sequences out of 15000+600000
+ 53578 strings out of 474116
+ 1256884 string characters out of 5743682
+ 2056459 words of memory out of 5000000
+ 74692 multiletter control sequences out of 15000+600000
  655902 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,14n,145p,847b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2189,10 +2228,10 @@ pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texliv
 e/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/t
 exmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-Output written on neuroradiologia_clinica.pdf (15 pages, 236420 bytes).
+Output written on neuroradiologia_clinica.pdf (17 pages, 236741 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
- 205 compressed objects within 3 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 283 PDF objects out of 1000 (max. 8388607)
+ 215 compressed objects within 3 object streams
+ 38 named destinations out of 1000 (max. 500000)
  239 words of extra memory for PDF output out of 10000 (max. 10000000)
 

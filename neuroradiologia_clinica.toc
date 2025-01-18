@@ -15,7 +15,7 @@
 \contentsline {subsection}{\numberline {0.1.10}Bibliografia}{3}{subsection.0.1.10}%
 \ttl@change@i {\@ne }{chapter}{2.5pc}{\addvspace {15pt}}{\begin {tikzpicture} \pgftext {\LArge \bfseries \bfseries \color {black}\hspace {-1cm} Appendice\ \thecontentslabel {\color {white}.}\hspace {.5cm} } \end {tikzpicture}\Large }{}{\color {black}\titlerule \; \;\Large \bfseries Pagina \thecontentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
-\contentsline {chapter}{\numberline {A}Titolo}{7}{appendix.alph1.Alph1}%
-\contentsline {part}{Bibliografia}{9}{appendix*.5}%
-\contentsline {part}{Indice analitico}{10}{appendix*.6}%
+\contentsline {chapter}{\numberline {A}Titolo}{9}{appendix.alph1.Alph1}%
+\contentsline {part}{Bibliografia}{11}{appendix*.6}%
+\contentsline {part}{Indice analitico}{12}{appendix*.7}%
 \contentsfinish 
