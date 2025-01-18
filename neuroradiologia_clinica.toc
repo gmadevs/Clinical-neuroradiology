@@ -2,9 +2,20 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
 \contentsline {part}{Introduzione}{III}{chapter*.2}%
+\contentsline {section}{\numberline {0.1}Patologia}{3}{section.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Definizione}{3}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Eziologia}{3}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {0.1.3}Epidemiologia}{3}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {0.1.4}Presentazione clinica}{3}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {0.1.5}Approccio diagnostico}{3}{subsection.0.1.5}%
+\contentsline {subsection}{\numberline {0.1.6}Anatomia patologica}{3}{subsection.0.1.6}%
+\contentsline {subsection}{\numberline {0.1.7}Imaging}{3}{subsection.0.1.7}%
+\contentsline {subsection}{\numberline {0.1.8}Trattamento e prognosi}{3}{subsection.0.1.8}%
+\contentsline {subsection}{\numberline {0.1.9}Checklist di refertazione}{3}{subsection.0.1.9}%
+\contentsline {subsection}{\numberline {0.1.10}Bibliografia}{3}{subsection.0.1.10}%
 \ttl@change@i {\@ne }{chapter}{2.5pc}{\addvspace {15pt}}{\begin {tikzpicture} \pgftext {\LArge \bfseries \bfseries \color {black}\hspace {-1cm} Appendice\ \thecontentslabel {\color {white}.}\hspace {.5cm} } \end {tikzpicture}\Large }{}{\color {black}\titlerule \; \;\Large \bfseries Pagina \thecontentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
-\contentsline {chapter}{\numberline {A}Titolo}{5}{appendix.alph1.Alph1}%
-\contentsline {part}{Bibliografia}{7}{appendix*.5}%
-\contentsline {part}{Indice analitico}{9}{appendix*.6}%
+\contentsline {chapter}{\numberline {A}Titolo}{7}{appendix.alph1.Alph1}%
+\contentsline {part}{Bibliografia}{9}{appendix*.5}%
+\contentsline {part}{Indice analitico}{10}{appendix*.6}%
 \contentsfinish 

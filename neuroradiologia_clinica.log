@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  18 JAN 2025 18:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  18 JAN 2025 18:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1637,76 +1637,6 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count399
-\mult@box=\box103
-\multicol@leftmargin=\dimen379
-\c@unbalance=\count400
-\c@collectmore=\count401
-\doublecol@number=\count402
-\multicoltolerance=\count403
-\multicolpretolerance=\count404
-\full@width=\dimen380
-\page@free=\dimen381
-\premulticols=\dimen382
-\postmulticols=\dimen383
-\multicolsep=\skip160
-\multicolbaselineskip=\skip161
-\partial@page=\box104
-\last@line=\box105
-\mc@boxedresult=\box106
-\maxbalancingoverflow=\dimen384
-\mult@rightbox=\box107
-\mult@grightbox=\box108
-\mult@firstbox=\box109
-\mult@gfirstbox=\box110
-\@tempa=\box111
-\@tempa=\box112
-\@tempa=\box113
-\@tempa=\box114
-\@tempa=\box115
-\@tempa=\box116
-\@tempa=\box117
-\@tempa=\box118
-\@tempa=\box119
-\@tempa=\box120
-\@tempa=\box121
-\@tempa=\box122
-\@tempa=\box123
-\@tempa=\box124
-\@tempa=\box125
-\@tempa=\box126
-\@tempa=\box127
-\@tempa=\box128
-\@tempa=\box129
-\@tempa=\box130
-\@tempa=\box131
-\@tempa=\box132
-\@tempa=\box133
-\@tempa=\box134
-\@tempa=\box135
-\@tempa=\box136
-\@tempa=\box137
-\@tempa=\box138
-\@tempa=\box139
-\@tempa=\box140
-\@tempa=\box141
-\@tempa=\box142
-\@tempa=\box143
-\@tempa=\box144
-\@tempa=\box145
-\@tempa=\box146
-\c@minrows=\count405
-\c@columnbadness=\count406
-\c@finalcolumnbadness=\count407
-\last@try=\dimen385
-\multicolovershoot=\dimen386
-\multicolundershoot=\dimen387
-\mult@nat@firstbox=\box147
-\colbreak@box=\box148
-\mc@col@check@num=\count408
 ))
 \neuroradiologia_clinica@idxfile=\write4
 \openout4 = `neuroradiologia_clinica.idx'.
@@ -1732,11 +1662,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count409
+\c@section@level=\count399
 )
-\@linkdim=\dimen388
-\Hy@linkcounter=\count410
-\Hy@pagecounter=\count411
+\@linkdim=\dimen379
+\Hy@linkcounter=\count400
+\Hy@pagecounter=\count401
  (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -1745,7 +1675,7 @@ Now handling font encoding PD1 ...
 (/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count412
+\Hy@SavedSpaceFactor=\count402
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
@@ -1762,14 +1692,14 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count413
+\c@Hy@tempcnt=\count403
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen389
+\XeTeXLinkMargin=\dimen380
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -1778,9 +1708,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count414
-\Field@Width=\dimen390
-\Fld@charsize=\dimen391
+\Fld@menulength=\count404
+\Field@Width=\dimen381
+\Fld@charsize=\dimen382
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
@@ -1793,9 +1723,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count415
-\c@Item=\count416
-\c@Hfootnote=\count417
+\Hy@abspage=\count405
+\c@Item=\count406
+\c@Hfootnote=\count407
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -1807,9 +1737,9 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\HyAnn@Count=\count418
-\Fld@listcount=\count419
-\c@bookmark@seq@number=\count420
+\HyAnn@Count=\count408
+\Fld@listcount=\count409
+\c@bookmark@seq@number=\count410
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -1820,12 +1750,12 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip162
+\Hy@SectionHShift=\skip160
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 15.
 ) (./FileAusiliari/Comandi.sty
 \symextraup=\mathgroup7
-\c@Counter=\count421
+\c@Counter=\count411
 )
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16
 .
@@ -1885,7 +1815,7 @@ LaTeX Info: Redefining \it@ccap on input line 16.
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumnfalse
+* \@twocolumntrue
 * \@twosidetrue
 * \@mparswitchtrue
 * \@reversemarginfalse
@@ -1893,16 +1823,16 @@ LaTeX Info: Redefining \it@ccap on input line 16.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count422
-\scratchdimen=\dimen392
-\scratchbox=\box149
-\nofMPsegments=\count423
-\nofMParguments=\count424
+\scratchcounter=\count412
+\scratchdimen=\dimen383
+\scratchbox=\box103
+\nofMPsegments=\count413
+\nofMParguments=\count414
 \everyMPshowfont=\toks75
-\MPscratchCnt=\count425
-\MPscratchDim=\dimen393
-\MPnumerator=\count426
-\makeMPintoPDFobject=\count427
+\MPscratchCnt=\count415
+\MPscratchDim=\dimen384
+\MPnumerator=\count416
+\makeMPintoPDFobject=\count417
 \everyMPtoPDFconversion=\toks76
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1945,31 +1875,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [1
 
 
+
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}])
+al/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]) [1
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@none' on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\c@page' on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@none' on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\c@page' on input line 23.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.23 \frontmatter
-                  [2
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
@@ -1978,14 +1887,127 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(./neuroradiologia_clinica.toc)
+(./neuroradiologia_clinica.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
+.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
+.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+6.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+6.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 6.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 6.
+
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+zavm on input line 6.
+
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/arev/uzavm.fd
+File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
+)
+Overfull \hbox (5.0pt too wide) detected at line 6
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 7
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 8
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 9
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 10
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 11
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 12
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 13
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 14
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+
+Overfull \hbox (5.0pt too wide) detected at line 15
+ [][][]\T1/lmr/m/n/10 3[][]
+ []
+
+)
 \tf@toc=\write6
 \openout6 = `neuroradiologia_clinica.toc'.
 
- (./FileAusiliari/Introduzione.tex [1] [2
+ [2
 
-])
-[3] [4]
+] (./FileAusiliari/Introduzione.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 5711) has occurred while \output is active []
+
+ [3
+
+
+]
+[4
+
+]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2012,13 +2034,14 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumnfalse
+* \@twocolumntrue
 * \@twosidetrue
 * \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
  [1
+
 
 
 
@@ -2029,7 +2052,33 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (./Capitoli/degenerative/main.tex) (./Capitoli/metaboliche/main.tex)
 (./Capitoli/rachide/main.tex) (./Capitoli/periferico/main.tex)
 (./Capitoli/orbite/main.tex) (./Capitoli/chirurgiche/main.tex)
-(./Capitoli/rocche/main.tex) (./Capitoli/sella/main.tex)
+(./Capitoli/rocche/main.tex) (./Capitoli/sella/main.tex) (./template.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 30--30
+[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
+ []
+
+
+LaTeX Warning: Marginpar on page 3 moved.
+
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 103.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 103.
+ [3
+
+
+
+]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2056,121 +2105,94 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumnfalse
+* \@twocolumntrue
 * \@twosidetrue
 * \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [3
+ [4
 
 
 
-] [4]
-(./Appendici/AppendiceA.tex
+]
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.84949pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.84949pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.84949pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 11.55pt, for example:
+(fancyhdr)                \setlength{\footskip}{11.55pt}.
+
+[5
+
+] [6] (./Appendici/AppendiceA.tex
 Appendice A.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-.
+) [7
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-2.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-2.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 2.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 2.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 2.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
-
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-LaTeX Font Info:    Trying to load font information for U+zavm on input line 2.
-
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/arev/uzavm.fd
-File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
-)) [5
 
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/loca
 l/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024
-/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [6
+/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}
 
-] (./neuroradiologia_clinica.bbl
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-1.
+]
+(./neuroradiologia_clinica.bbl [8
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) [7
 
-] [8
+]
+
+LaTeX Warning: Empty `thebibliography' environment on input line 10.
+
+) [9
+
 
 ]
 runsystem(makeindex -s FileAusiliari/Stile.ist neuroradiologia_clinica.idx)...e
 xecuted safely (allowed).
 
+ (./neuroradiologia_clinica.ind)
+Overfull \vbox (100.5pt too high) has occurred while \output is active []
 
-(./neuroradiologia_clinica.ind) [9] (./neuroradiologia_clinica.aux)
+ [10
+
+]
+(./neuroradiologia_clinica.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
-(rerunfilecheck)             Checksum: A0C0A14A0FEF5731E84E969F9B0469D9;434.
+(rerunfilecheck)             Checksum: 0E68AF4631026FE8E684BCCE05711A7A;2017.
  ) 
 Here is how much of TeX's memory you used:
- 53672 strings out of 474116
- 1258586 string characters out of 5743682
- 2055492 words of memory out of 5000000
- 74805 multiletter control sequences out of 15000+600000
- 634615 words of font info for 81 fonts, out of 8000000 for 9000
+ 53574 strings out of 474116
+ 1256855 string characters out of 5743682
+ 2056408 words of memory out of 5000000
+ 74691 multiletter control sequences out of 15000+600000
+ 655902 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,11n,145p,847b,705s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,14n,145p,847b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texliv
-e/2024/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2024/texm
-f-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/font
-s/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
-lic/lm/lmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri1
-0.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></us
-r/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/te
-xlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on neuroradiologia_clinica.pdf (15 pages, 174036 bytes).
+cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive
+/2024/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2024/texmf
+-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts
+/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publ
+ic/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.
+pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/t
+exmf-dist/fonts/type1/public/lm/lmsy9.pfb>
+Output written on neuroradiologia_clinica.pdf (15 pages, 236420 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 271 PDF objects out of 1000 (max. 8388607)
+ 205 compressed objects within 3 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 239 words of extra memory for PDF output out of 10000 (max. 10000000)
 

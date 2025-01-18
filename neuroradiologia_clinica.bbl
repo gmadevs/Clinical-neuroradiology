@@ -5,12 +5,6 @@
   \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
 }
 \providecommand{\href}[2]{#2}
-\begin{thebibliography}{Cogno}
-
-\bibitem[Cog]{LabelUrl}
-N.~Cognome, \emph{Titolo}, \url{https://poisson.phc.dm.unipi.it/~puddu}.
-
-\bibitem[Cogno]{Label}
-\bysame, \emph{Titolo}, Publisher, Anno.
+\begin{thebibliography}{}
 
 \end{thebibliography}
