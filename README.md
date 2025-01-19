@@ -34,7 +34,9 @@ root/
 
 Le immagini del libro per non appesantire la repository sono hostate a parte in una cartella GDrive che trovi qui: scaricala e copia i file dentro la cartella
 
-- ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Drive](https://www.google.it)
+
 
 Per compilare i file LaTeX, assicurati di avere installato:
 - [TeX Live](https://www.tug.org/texlive/) o [MikTeX](https://miktex.org/)
