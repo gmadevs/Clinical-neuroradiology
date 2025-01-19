@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  19 JAN 2025 09:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  19 JAN 2025 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2003,37 +2003,83 @@ LaTeX Font Info:    Trying to load font information for U+zavm on input line 8.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/arev/uzavm.fd
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 )
-Underfull \hbox (badness 6758) in paragraph at lines 38--38
-[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
- []
-
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-))) (./Capitoli/metaboliche/main.tex) (./Capitoli/rachide/main.tex)
-(./Capitoli/periferico/main.tex) (./Capitoli/orbite/main.tex)
-(./Capitoli/chirurgiche/main.tex) (./Capitoli/rocche/main.tex)
-(./Capitoli/sella/main.tex) (./template.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3514) has occurred while \output is active []
 
  [3
 
 
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package mdframed Info: mdframed works in twoside mode on input line 32.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 32.
+Package hyperref Info: bookmark level for unknown Oss defaults to 0 on input li
+ne 32.
+
+Underfull \hbox (badness 2762) in paragraph at lines 35--36
+   [] \T1/lmr/m/n/10 Espe-rien-ze non mo-to-rie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/lmr/m/n/10 del-la vi-ta quo-ti-dia-na.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/lmr/m/n/10 Que-sta se-zio-ne va-lu-ta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/lmr/m/n/10 co-gni-ti-ve, i di-stur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/lmr/m/n/10 bi com-por-ta-men-ta-li e
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 36--37
+\T1/lmr/m/n/10 se-zio-ne va-lu-ta l'im-pat-to
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 38--39
+   [] \T1/lmr/m/n/10 Com-pli-can-ze del-la te-ra-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 58.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 58.
+ [4]
+Underfull \hbox (badness 6758) in paragraph at lines 59--59
+[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
+ []
+
+
+LaTeX Warning: Marginpar on page 5 moved.
+
+))) (./Capitoli/metaboliche/main.tex) (./Capitoli/rachide/main.tex)
+(./Capitoli/periferico/main.tex) (./Capitoli/orbite/main.tex)
+(./Capitoli/chirurgiche/main.tex) (./Capitoli/rocche/main.tex)
+(./Capitoli/sella/main.tex) (./template.tex
 Underfull \hbox (badness 6758) in paragraph at lines 28--28
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
 
 
-LaTeX Warning: Marginpar on page 4 moved.
+LaTeX Warning: Marginpar on page 5 moved.
 
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 104.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 104.
- [4
+) [5
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -2068,11 +2114,27 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [5
+ [6
 
 
 
-] [6]
+]
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.84949pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.84949pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.84949pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 11.55pt, for example:
+(fancyhdr)                \setlength{\footskip}{11.55pt}.
+
+[7
+
+] [8]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2105,15 +2167,15 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [7
+ [9
 
 
 
 
 
-] [8] (./Appendici/AppendiceA.tex
+] [10] (./Appendici/AppendiceA.tex
 Appendice A.
-) [9
+) [11
 
 
 
@@ -2121,14 +2183,14 @@ Appendice A.
 l/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}
 
 ]
-(./neuroradiologia_clinica.bbl [10
+(./neuroradiologia_clinica.bbl [12
 
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 10.
 
-) [11
+) [13
 
 
 ]
@@ -2138,7 +2200,7 @@ xecuted safely (allowed).
  (./neuroradiologia_clinica.ind)
 Overfull \vbox (100.5pt too high) has occurred while \output is active []
 
- [12
+ [14
 
 ]
 (./neuroradiologia_clinica.aux)
@@ -2148,31 +2210,32 @@ L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
-(rerunfilecheck)             Checksum: 72674E1220CE5D0B68A247F44FAD1AD8;801.
+(rerunfilecheck)             Checksum: C12574069676C27FC84E4944098F120A;852.
  ) 
 Here is how much of TeX's memory you used:
- 53607 strings out of 474116
- 1257623 string characters out of 5743682
- 2070453 words of memory out of 5000000
- 74695 multiletter control sequences out of 15000+600000
+ 53641 strings out of 474116
+ 1258470 string characters out of 5743682
+ 2065488 words of memory out of 5000000
+ 74725 multiletter control sequences out of 15000+600000
  661447 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,14n,145p,847b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive
-/2024/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2024/texmf
--dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts
-/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publ
-ic/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.
-pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texliv
-e/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/t
-exmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/
-fonts/type1/public/lm/lmsy9.pfb>
-Output written on neuroradiologia_clinica.pdf (17 pages, 250126 bytes).
+ 116i,14n,145p,931b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texm
+f-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2024/texmf-dist/font
+s/type1/public/lm/lmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
+lic/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr1
+2.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/tex
+mf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/
+fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type
+1/public/lm/lmsy9.pfb>
+Output written on neuroradiologia_clinica.pdf (19 pages, 281760 bytes).
 PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
- 50 named destinations out of 1000 (max. 500000)
+ 280 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
+ 54 named destinations out of 1000 (max. 500000)
  175 words of extra memory for PDF output out of 10000 (max. 10000000)
 
