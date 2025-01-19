@@ -23,10 +23,10 @@ Benvenuto nella repository ufficiale del libro **"Neuroradiologia Clinica"**, un
 
 ```
 root/
-├── chapters/        # File LaTeX dei capitoli individuali
-├── images/          # Immagini e diagrammi
-├── book/            # File principale del libro completo
-├── templates/       # Template per nuovi capitoli
+├── Capitoli/        # File LaTeX dei capitoli individuali
+├── images/          # Immagini e figure
+├── *.pdf/           # File principale del libro completo
+├── template.tex     # Template per nuovi capitoli
 └── README.md        # Questo file
 ```
 
