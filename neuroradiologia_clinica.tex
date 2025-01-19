@@ -1,7 +1,9 @@
-\documentclass[10pt, twoside, twocolumn]{book}
+\documentclass[10pt, twoside, twocolumn, openright]{book}
     \usepackage[italian]{babel}
     \usepackage[utf8]{inputenc}
     \usepackage[T1]{fontenc}
+%%%%% Modifiche mie
+\usepackage{minitoc}
 %%%%% Pacchetti
 \usepackage{FileAusiliari/Layout}			% Contiene i pacchetti e le impostazioni per il layout
 \usepackage{FileAusiliari/Pacchetti}		% Pacchetti aggiuntivi di vario tipo (senza tikz)
@@ -13,6 +15,7 @@
 \usepackage{FileAusiliari/Comandi}			% Comandi vari
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \setcounter{tocdepth}{1}
+\dominitoc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%									 TITOLO

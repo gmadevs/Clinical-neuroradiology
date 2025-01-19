@@ -2,13 +2,14 @@
 \babel@toc {italian}{}\relax 
 \babel@toc {italian}{}\relax 
 \contentsline {part}{Introduzione}{III}{chapter*.2}%
+\partbegin 
 \contentsline {chapter}{\numberline {1}Disturbi del movimento}{3}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Morbo di Parkinson}{3}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Definizione}{3}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.1.2}Eziologia}{3}{subsection.1.1.2}%
 \contentsline {subsection}{\numberline {1.1.3}Epidemiologia}{3}{subsection.1.1.3}%
 \contentsline {subsubsection}{Fattori di rischio}{3}{subsubsection*.4}%
-\contentsline {subsection}{\numberline {1.1.4}Presentazione clinica}{3}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.4}Presentazione clinica}{4}{subsection.1.1.4}%
 \contentsline {subsection}{\numberline {1.1.5}Approccio diagnostico}{4}{subsection.1.1.5}%
 \contentsline {subsection}{\numberline {1.1.6}Anatomia patologica}{5}{subsection.1.1.6}%
 \contentsline {subsection}{\numberline {1.1.7}Imaging}{5}{subsection.1.1.7}%
@@ -26,6 +27,8 @@
 \contentsline {subsection}{\numberline {1.2.8}Trattamento e prognosi}{5}{subsection.1.2.8}%
 \contentsline {subsection}{\numberline {1.2.9}Checklist di refertazione}{5}{subsection.1.2.9}%
 \contentsline {subsection}{\numberline {1.2.10}Bibliografia}{5}{subsection.1.2.10}%
+\partbegin 
+\partbegin 
 \ttl@change@i {\@ne }{chapter}{2.5pc}{\addvspace {15pt}}{\begin {tikzpicture} \pgftext {\LArge \bfseries \bfseries \color {black}\hspace {-1cm} Appendice\ \thecontentslabel {\color {white}.}\hspace {.5cm} } \end {tikzpicture}\Large }{}{\color {black}\titlerule \; \;\Large \bfseries Pagina \thecontentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
 \contentsline {chapter}{\numberline {A}Titolo}{11}{appendix.alph1.Alph1}%
