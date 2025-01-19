@@ -5,12 +5,12 @@ Benvenuto nella repository ufficiale del libro **"Neuroradiologia Clinica"**, un
 ## 📚 Contenuti della Repository
 
 - **Codice sorgente in LaTeX:** Ogni capitolo del libro è scritto in formato LaTeX per garantire un'elevata qualità tipografica.
-- **Release PDF:** Le versioni finali dei capitoli e del libro completo sono disponibili nella sezione [Releases](https://github.com/username/repository/releases).
+- **Release PDF:** Le versioni finali dei capitoli e del libro completo sono disponibili nella sezione [Releases](https://github.com/gmadevs/Neuroradiologia-Clinica/releases).
 
 ## 🛠️ Come Usare Questa Repository
 
 ### Per Consultare il Libro
-1. Visita la sezione [Releases](https://github.com/username/repository/releases).
+1. Visita la sezione [Releases](https://github.com/gmadevs/Neuroradiologia-Clinica/releases).
 2. Scarica i PDF dei capitoli o il libro completo.
 
 ### Per Contribuire
@@ -67,5 +67,6 @@ Oppure scrivi a giorgiomaria.agazzi@gmail.com
 ---
 
 Ti piace il progetto? 🌟 Supportaci lasciando una stella a questa repository!
+
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
