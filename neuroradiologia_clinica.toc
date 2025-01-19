@@ -15,8 +15,8 @@
 \contentsline {subsection}{\numberline {1.1.7}Imaging}{8}{subsection.1.1.7}%
 \contentsline {subsubsection}{TC}{8}{subsubsection*.6}%
 \contentsline {subsubsection}{RM}{8}{subsubsection*.7}%
-\contentsline {subsection}{\numberline {1.1.8}Trattamento e prognosi}{9}{subsection.1.1.8}%
-\contentsline {subsection}{\numberline {1.1.9}Checklist di refertazione}{9}{subsection.1.1.9}%
+\contentsline {subsection}{\numberline {1.1.8}Trattamento e prognosi}{8}{subsection.1.1.8}%
+\contentsline {subsection}{\numberline {1.1.9}Checklist di refertazione}{8}{subsection.1.1.9}%
 \contentsline {subsection}{\numberline {1.1.10}Bibliografia}{9}{subsection.1.1.10}%
 \contentsline {section}{\numberline {1.2}Patologia}{9}{section.1.2}%
 \contentsline {subsection}{\numberline {1.2.1}Definizione}{9}{subsection.1.2.1}%
