@@ -23,14 +23,18 @@ Benvenuto nella repository ufficiale del libro **"Neuroradiologia Clinica"**, un
 
 ```
 root/
-├── Capitoli/        # File LaTeX dei capitoli individuali
-├── images/          # Immagini e figure
-├── *.pdf/           # File principale del libro completo
-├── template.tex     # Template per nuovi capitoli
-└── README.md        # Questo file
+├── Capitoli/                 # File LaTeX dei capitoli individuali
+├── FileAusiliari/Immagini    # Immagini e figure
+├── *.pdf/                    # File principale del libro completo
+├── template.tex              # Template per nuovi capitoli
+└── README.md                 # Questo file
 ```
 
 ## ⚙️ Dipendenze
+
+Le immagini del libro per non appesantire la repository sono hostate a parte in una cartella GDrive che trovi qui: scaricala e copia i file dentro la cartella
+
+- ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 Per compilare i file LaTeX, assicurati di avere installato:
 - [TeX Live](https://www.tug.org/texlive/) o [MikTeX](https://miktex.org/)
