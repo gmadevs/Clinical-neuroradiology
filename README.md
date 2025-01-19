@@ -1,4 +1,4 @@
-# Neuroradiologia Clinica - Libro Open Source
+# Neuroradiologia Clinica - I Edizione
 
 Benvenuto nella repository ufficiale del libro **"Neuroradiologia Clinica"**, un progetto open source scritto interamente in LaTeX per supportare lo studio e la pratica della neuroradiologia. Questo progetto mira a fornire una risorsa completa e accessibile per studenti, medici e appassionati del settore.
 
@@ -32,11 +32,9 @@ root/
 
 ## ⚙️ Dipendenze
 
-Le immagini del libro per non appesantire la repository sono hostate a parte in una cartella GDrive che trovi qui: scaricala e copia i file dentro la cartella
+Le immagini del libro per non appesantire la repository sono hostate a parte in una cartella GDrive che trovi qui: scaricala e copia i file dentro la cartella "FileAusiliari/Immagini"
 
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Google Drive](https://www.google.it)
-
 
 Per compilare i file LaTeX, assicurati di avere installato:
 - [TeX Live](https://www.tug.org/texlive/) o [MikTeX](https://miktex.org/)
