@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  19 JAN 2025 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  19 JAN 2025 12:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2149,22 +2149,22 @@ Overfull \hbox (4.625pt too wide) detected at line 4
 
 
 Overfull \hbox (4.625pt too wide) detected at line 6
- [][][]\T1/lmr/m/n/9 7[][]
+ [][][]\T1/lmr/m/n/9 6[][]
  []
 
 
 Overfull \hbox (4.625pt too wide) detected at line 7
- [][][]\T1/lmr/m/n/9 7[][]
+ [][][]\T1/lmr/m/n/9 6[][]
  []
 
 
 Overfull \hbox (4.625pt too wide) detected at line 8
- [][][]\T1/lmr/m/n/9 8[][]
+ [][][]\T1/lmr/m/n/9 7[][]
  []
 
 
 Overfull \hbox (4.625pt too wide) detected at line 9
- [][][]\T1/lmr/m/n/9 9[][]
+ [][][]\T1/lmr/m/n/9 8[][]
  []
 
 
@@ -2241,7 +2241,11 @@ ration.jpg Graphic file (type jpg)
 ation.jpg>
 Package pdftex.def Info: FileAusiliari/Immagini/degenerative/dopamine-in-parkin
 sons-disease-illustration.jpg  used on input line 9.
-(pdftex.def)             Requested size: 453.50787pt x 360.21327pt.
+(pdftex.def)             Requested size: 226.75394pt x 180.10663pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 16.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2253,11 +2257,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [6 <./Fi
-leAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illustration.j
-pg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Underfull \vbox (badness 1803) has occurred while \output is active []
 
+
+Underfull \vbox (badness 1803) has occurred while \output is active []
+
+ [6 <./FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illus
+tration.jpg>]
 Package mdframed Info: mdframed works in twoside mode on input line 40.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2299,14 +2306,25 @@ Underfull \hbox (badness 2293) in paragraph at lines 46--47
    [] \T1/lmr/m/n/10 Com-pli-can-ze del-la te-ra-
  []
 
-[7]
-Underfull \vbox (badness 4217) has occurred while \output is active []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
-Underfull \hbox (badness 6758) in paragraph at lines 84--84
+ [7]
+<FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg, id=213, 533.74406
+pt x 208.52907pt>
+File: FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg Graphic file 
+(type jpg)
+<use FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg>
+Package pdftex.def Info: FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g00
+2.jpg  used on input line 73.
+(pdftex.def)             Requested size: 155.22707pt x 60.64369pt.
+
+Overfull \hbox (115.87697pt too wide) in paragraph at lines 74--74
+[] [] 
+ []
+
+[8 <./FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg>]
+Underfull \hbox (badness 6758) in paragraph at lines 93--93
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
 
@@ -2324,7 +2342,9 @@ Underfull \hbox (badness 6758) in paragraph at lines 28--28
 
 LaTeX Warning: Marginpar on page 9 moved.
 
-) [9]
+) [9
+
+]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2470,13 +2490,13 @@ L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
-(rerunfilecheck)             Checksum: 72A2F4EA971F646B31E527953C101189;854.
+(rerunfilecheck)             Checksum: 40529F9087C28B165EAAE04A49FAC7C2;854.
  ) 
 Here is how much of TeX's memory you used:
- 55743 strings out of 474116
- 1295782 string characters out of 5743682
- 2117145 words of memory out of 5000000
- 76798 multiletter control sequences out of 15000+600000
+ 55760 strings out of 474116
+ 1296723 string characters out of 5743682
+ 2116145 words of memory out of 5000000
+ 76814 multiletter control sequences out of 15000+600000
  668709 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,14n,145p,1004b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2493,10 +2513,10 @@ mf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fo
 nts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type
 1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/l
 m/lmsy9.pfb>
-Output written on neuroradiologia_clinica.pdf (22 pages, 441210 bytes).
+Output written on neuroradiologia_clinica.pdf (22 pages, 472893 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
- 265 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
- 180 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 352 PDF objects out of 1000 (max. 8388607)
+ 267 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 185 words of extra memory for PDF output out of 10000 (max. 10000000)
 
