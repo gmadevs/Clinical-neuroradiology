@@ -56,6 +56,7 @@ Per compilare i file LaTeX, assicurati di avere installato:
 ## 📜 Licenza
 
 Questo progetto è distribuito sotto la licenza [CC4.0](LICENSE). Sentiti libero di utilizzarlo, modificarlo e condividerlo, rispettando i termini della licenza.
+Le immagini contenute all'interno del libro sono state ottenute da [Radiopaedia](https://radiopaedia.org) o da [PubMed Central](https://pmc.ncbi.nlm.nih.gov/).
 
 ---
 
