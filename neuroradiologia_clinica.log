@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  19 JAN 2025 10:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  19 JAN 2025 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -108,14 +108,34 @@ File: english.mld 2006/01/13
 (/usr/local/texlive/2024/texmf-dist/tex/latex/minitoc/english.mld
 File: english.mld 2006/01/13
 ))
-(./FileAusiliari/Layout.sty
-(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
 )
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(./FileAusiliari/Layout.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
 (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
@@ -125,14 +145,14 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@cnth=\count273
 \Gm@cntv=\count274
 \c@Gm@tempcnt=\count275
-\Gm@bindingoffset=\dimen142
-\Gm@wd@mp=\dimen143
-\Gm@odd@mp=\dimen144
-\Gm@even@mp=\dimen145
-\Gm@layoutwidth=\dimen146
-\Gm@layoutheight=\dimen147
-\Gm@layouthoffset=\dimen148
-\Gm@layoutvoffset=\dimen149
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
 \Gm@dimlist=\toks21
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
@@ -156,7 +176,7 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
-\ttl@leftsep=\dimen150
+\ttl@leftsep=\dimen152
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
@@ -175,20 +195,20 @@ Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@cmds=\toks25
 \SOUL@buffer=\toks26
 \SOUL@token=\toks27
-\SOUL@syllgoal=\dimen151
-\SOUL@syllwidth=\dimen152
-\SOUL@charkern=\dimen153
-\SOUL@hyphkern=\dimen154
-\SOUL@dimen=\dimen155
-\SOUL@dimeni=\dimen156
+\SOUL@syllgoal=\dimen153
+\SOUL@syllwidth=\dimen154
+\SOUL@charkern=\dimen155
+\SOUL@hyphkern=\dimen156
+\SOUL@dimen=\dimen157
+\SOUL@dimeni=\dimen158
 \SOUL@minus=\count279
 \SOUL@comma=\count280
 \SOUL@apo=\count281
 \SOUL@grave=\count282
 \SOUL@spaceskip=\skip65
-\SOUL@ttwidth=\dimen157
-\SOUL@uldp=\dimen158
-\SOUL@ulht=\dimen159
+\SOUL@ttwidth=\dimen159
+\SOUL@uldp=\dimen160
+\SOUL@ulht=\dimen161
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
@@ -205,8 +225,8 @@ Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
 \pgfutil@everybye=\toks28
-\pgfutil@tempdima=\dimen160
-\pgfutil@tempdimb=\dimen161
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box53
@@ -217,26 +237,6 @@ Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen162
-\Gin@req@width=\dimen163
-)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
@@ -1811,7 +1811,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 15.
 )
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM neuroradiologia_clinica.toc on in
-put line 20.
+put line 21.
 \openout3 = `neuroradiologia_clinica.mtc'.
 
 Package minitoc Info: I0033
@@ -1826,7 +1826,7 @@ Package minitoc Info: I0033
 (minitoc)             Writing neuroradiologia_clinica.mtc2.
 \openout3 = `neuroradiologia_clinica.mtc2'.
 
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 20
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 21
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
@@ -1835,26 +1835,26 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (./neuroradiologia_clinica.aux)
 \openout1 = `neuroradiologia_clinica.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Info: Redefining \it@ocap on input line 20.
-LaTeX Info: Redefining \it@ccap on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Info: Redefining \it@ocap on input line 21.
+LaTeX Info: Redefining \it@ccap on input line 21.
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -1895,6 +1895,28 @@ Package minitoc(hints) Warning: W0023
 (minitoc(hints))                --- It may be the consequence 
 (minitoc(hints))                of loading the ``hyperref'' package.
 
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count416
+\scratchdimen=\dimen383
+\scratchbox=\box105
+\nofMPsegments=\count417
+\nofMParguments=\count418
+\everyMPshowfont=\toks76
+\MPscratchCnt=\count419
+\MPscratchDim=\dimen384
+\MPnumerator=\count420
+\makeMPintoPDFobject=\count421
+\everyMPtoPDFconversion=\toks77
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1929,35 +1951,13 @@ Package minitoc(hints) Warning: W0023
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count416
-\scratchdimen=\dimen383
-\scratchbox=\box105
-\nofMPsegments=\count417
-\nofMParguments=\count418
-\everyMPshowfont=\toks76
-\MPscratchCnt=\count419
-\MPscratchDim=\dimen384
-\MPnumerator=\count420
-\makeMPintoPDFobject=\count421
-\everyMPtoPDFconversion=\toks77
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 20.
+Package hyperref Info: Link coloring ON on input line 21.
 (./neuroradiologia_clinica.out) (./neuroradiologia_clinica.out)
 \@outlinefile=\write6
 \openout6 = `neuroradiologia_clinica.out'.
@@ -1990,7 +1990,7 @@ al/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]) [1
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
-2.
+3.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -2001,307 +2001,68 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
  [2
 
-] (./FileAusiliari/Introduzione.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
+] (./FileAusiliari/Introduzione.tex) [3
 
-
-Underfull \vbox (badness 5711) has occurred while \output is active []
-
- [3
 
 
 ]
-[4
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+4.
 
-]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
-* v-part:(T,H,B)=(99.58464pt, 645.87756pt, 99.58464pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=512.14963pt
-* \textheight=645.87756pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
-* \topmargin=27.31465pt
-* \headheight=0.0pt
-* \headsep=0.0pt
-* \topskip=10.0pt
-* \footskip=0.0pt
-* \marginparwidth=0.0pt
-* \marginparsep=0.0pt
-* \columnsep=10.0pt
-* \skip\footins=0.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumntrue
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- [1
-
-
-
-
-] [2] (./Capitoli/anatomia/main.tex) (./Capitoli/vascolare/main.tex)
-(./Capitoli/trauma/main.tex) (./Capitoli/csf/main.tex)
-(./Capitoli/infettivo/main.tex) (./Capitoli/infiammatorio/main.tex)
-(./Capitoli/epilessia/main.tex) (./Capitoli/neoplasie/main.tex)
-(./Capitoli/degenerative/main.tex (./approccio.tex) (./degenerative.tex)
-(./disturbi_movimento.tex
-Capitolo 1.
-\openout3 = `neuroradiologia_clinica.mtc'.
-
-\openout3 = `neuroradiologia_clinica.mtc'.
-
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
-.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+4.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-3.
+84.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-3.
+84.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 3.
+(Font)              <9> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 3.
+(Font)              <6> on input line 84.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 3.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+(Font)              <5> on input line 84.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 84.
+
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 84.
+
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
-
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 84
+.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+zavm on input line 3.
-
+LaTeX Font Info:    Trying to load font information for U+zavm on input line 84
+.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/arev/uzavm.fd
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
-)
-(./neuroradiologia_clinica.mtc1
-Underfull \hbox (badness 2460) in paragraph at lines 1--1
- []|| [][][]\T1/lmr/bx/n/9 Morbo di Par-
- []
+) [1
 
 
-Overfull \hbox (4.625pt too wide) detected at line 2
- [][][]\T1/lmr/m/n/9 3[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 3
- [][][]\T1/lmr/m/n/9 3[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 4
- [][][]\T1/lmr/m/n/9 3[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 6
- [][][]\T1/lmr/m/n/9 4[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 7
- [][][]\T1/lmr/m/n/9 4[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 8
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 9
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 10
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 11
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 12
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 14
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 15
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 16
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 17
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 18
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 19
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 20
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 21
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 22
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 23
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-) (./Capitoli/degenerative/disturbi_movimento/parkinson.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 8.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 8.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3
-
-
-
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Package mdframed Info: mdframed works in twoside mode on input line 32.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 32.
-Package hyperref Info: bookmark level for unknown Oss defaults to 0 on input li
-ne 32.
-
-Underfull \hbox (badness 2762) in paragraph at lines 35--36
-   [] \T1/lmr/m/n/10 Espe-rien-ze non mo-to-rie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\T1/lmr/m/n/10 del-la vi-ta quo-ti-dia-na.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\T1/lmr/m/n/10 Que-sta se-zio-ne va-lu-ta
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\T1/lmr/m/n/10 co-gni-ti-ve, i di-stur-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
-\T1/lmr/m/n/10 bi com-por-ta-men-ta-li e
- []
-
-
-Underfull \hbox (badness 1721) in paragraph at lines 36--37
-\T1/lmr/m/n/10 se-zio-ne va-lu-ta l'im-pat-to
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 38--39
-   [] \T1/lmr/m/n/10 Com-pli-can-ze del-la te-ra-
- []
-
-[4]
-Underfull \vbox (badness 4217) has occurred while \output is active []
-
-
-Underfull \hbox (badness 2020) in paragraph at lines 48--49
-[]\T1/lmr/m/n/10 La pa-to-ge-ne-si mo-le-co-la-re im-pli-ca al-te-ra-zio-ni
- []
-
-
-Underfull \hbox (badness 6758) in paragraph at lines 63--63
-[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
- []
-
-
-LaTeX Warning: Marginpar on page 5 moved.
-
-))) (./Capitoli/metaboliche/main.tex) (./Capitoli/rachide/main.tex)
-(./Capitoli/periferico/main.tex) (./Capitoli/orbite/main.tex)
-(./Capitoli/chirurgiche/main.tex) (./Capitoli/rocche/main.tex)
-(./Capitoli/sella/main.tex) (./template.tex
-Underfull \hbox (badness 6758) in paragraph at lines 28--28
-[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
- []
-
-
-LaTeX Warning: Marginpar on page 5 moved.
-
-) [5]
+]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2334,7 +2095,7 @@ LaTeX Warning: Marginpar on page 5 moved.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [6
+ [2
 
 
 
@@ -2352,9 +2113,218 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 11.55pt, for example:
 (fancyhdr)                \setlength{\footskip}{11.55pt}.
 
-[7
+[3
 
-] [8]
+] [4] (./Capitoli/anatomia/main.tex) (./Capitoli/vascolare/main.tex)
+(./Capitoli/trauma/main.tex) (./Capitoli/csf/main.tex)
+(./Capitoli/infettivo/main.tex) (./Capitoli/infiammatorio/main.tex)
+(./Capitoli/epilessia/main.tex) (./Capitoli/neoplasie/main.tex)
+(./Capitoli/degenerative/main.tex (./Capitoli/degenerative/approccio.tex)
+(./Capitoli/degenerative/degenerative.tex)
+(./Capitoli/degenerative/disturbi_movimento.tex
+Capitolo 1.
+\openout3 = `neuroradiologia_clinica.mtc'.
+
+\openout3 = `neuroradiologia_clinica.mtc'.
+
+(./neuroradiologia_clinica.mtc1
+Underfull \hbox (badness 2460) in paragraph at lines 1--1
+ []|| [][][]\T1/lmr/bx/n/9 Morbo di Par-
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 2
+ [][][]\T1/lmr/m/n/9 5[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 3
+ [][][]\T1/lmr/m/n/9 5[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 4
+ [][][]\T1/lmr/m/n/9 5[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 6
+ [][][]\T1/lmr/m/n/9 7[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 7
+ [][][]\T1/lmr/m/n/9 7[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 8
+ [][][]\T1/lmr/m/n/9 8[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 9
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 12
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 13
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 14
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 16
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 17
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 18
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 19
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 20
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 21
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 22
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 23
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 24
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+
+Overfull \hbox (4.625pt too wide) detected at line 25
+ [][][]\T1/lmr/m/n/9 9[][]
+ []
+
+) (./Capitoli/degenerative/disturbi_movimento/parkinson.tex
+<FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illustratio
+n.jpg, id=171, 1053.9375pt x 837.1275pt>
+File: FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illust
+ration.jpg Graphic file (type jpg)
+<use FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illustr
+ation.jpg>
+Package pdftex.def Info: FileAusiliari/Immagini/degenerative/dopamine-in-parkin
+sons-disease-illustration.jpg  used on input line 9.
+(pdftex.def)             Requested size: 453.50787pt x 360.21327pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 16.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 16.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [6 <./Fi
+leAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illustration.j
+pg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package mdframed Info: mdframed works in twoside mode on input line 40.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 40.
+Package hyperref Info: bookmark level for unknown Oss defaults to 0 on input li
+ne 40.
+
+Underfull \hbox (badness 2762) in paragraph at lines 43--44
+   [] \T1/lmr/m/n/10 Espe-rien-ze non mo-to-rie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\T1/lmr/m/n/10 del-la vi-ta quo-ti-dia-na.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\T1/lmr/m/n/10 Que-sta se-zio-ne va-lu-ta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\T1/lmr/m/n/10 co-gni-ti-ve, i di-stur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\T1/lmr/m/n/10 bi com-por-ta-men-ta-li e
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 44--45
+\T1/lmr/m/n/10 se-zio-ne va-lu-ta l'im-pat-to
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 46--47
+   [] \T1/lmr/m/n/10 Com-pli-can-ze del-la te-ra-
+ []
+
+[7]
+Underfull \vbox (badness 4217) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \hbox (badness 6758) in paragraph at lines 84--84
+[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
+ []
+
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+))) (./Capitoli/metaboliche/main.tex) (./Capitoli/rachide/main.tex)
+(./Capitoli/periferico/main.tex) (./Capitoli/orbite/main.tex)
+(./Capitoli/chirurgiche/main.tex) (./Capitoli/rocche/main.tex)
+(./Capitoli/sella/main.tex) (./template.tex
+Underfull \hbox (badness 6758) in paragraph at lines 28--28
+[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
+ []
+
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+) [9]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2387,15 +2357,68 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [9
+ [10
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.84949pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.84949pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.84949pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 11.55pt, for example:
+(fancyhdr)                \setlength{\footskip}{11.55pt}.
+
+[11
+
+] [12]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(99.58464pt, 645.87756pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=645.87756pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=27.31465pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=0.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [13
 
 
 
 
 
-] [10] (./Appendici/AppendiceA.tex
+] [14] (./Appendici/AppendiceA.tex
 Appendice A.
-) [11
+) [15
 
 
 
@@ -2403,14 +2426,14 @@ Appendice A.
 l/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}
 
 ]
-(./neuroradiologia_clinica.bbl [12
+(./neuroradiologia_clinica.bbl [16
 
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 10.
 
-) [13
+) [17
 
 
 ]
@@ -2437,7 +2460,7 @@ Package minitoc(hints) Warning: W0024
 
 Overfull \vbox (100.5pt too high) has occurred while \output is active []
 
- [14
+ [18
 
 ]
 (./neuroradiologia_clinica.aux)
@@ -2447,16 +2470,16 @@ L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
-(rerunfilecheck)             Checksum: C12574069676C27FC84E4944098F120A;852.
+(rerunfilecheck)             Checksum: 72A2F4EA971F646B31E527953C101189;854.
  ) 
 Here is how much of TeX's memory you used:
- 55704 strings out of 474116
- 1293813 string characters out of 5743682
- 2120145 words of memory out of 5000000
- 76766 multiletter control sequences out of 15000+600000
- 664446 words of font info for 102 fonts, out of 8000000 for 9000
+ 55743 strings out of 474116
+ 1295782 string characters out of 5743682
+ 2117145 words of memory out of 5000000
+ 76798 multiletter control sequences out of 15000+600000
+ 668709 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,14n,145p,978b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,14n,145p,1004b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
 e/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texm
@@ -2465,14 +2488,15 @@ s/type1/public/lm/lmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr1
 2.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/
 local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texliv
-e/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/tex
-mf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/
-fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type
-1/public/lm/lmsy9.pfb>
-Output written on neuroradiologia_clinica.pdf (19 pages, 289914 bytes).
+e/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/tex
+mf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fo
+nts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type
+1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/l
+m/lmsy9.pfb>
+Output written on neuroradiologia_clinica.pdf (22 pages, 441210 bytes).
 PDF statistics:
- 327 PDF objects out of 1000 (max. 8388607)
- 249 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
- 175 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
