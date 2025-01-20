@@ -31,34 +31,34 @@
 \contentsline {subsection}{\numberline {1.2.8}Trattamento e prognosi}{11}{subsection.1.2.8}%
 \contentsline {subsection}{\numberline {1.2.9}Checklist di refertazione}{11}{subsection.1.2.9}%
 \contentsline {subsection}{\numberline {1.2.10}Bibliografia}{11}{subsection.1.2.10}%
-\contentsline {section}{\numberline {1.3}FXTAS}{11}{section.1.3}%
+\contentsline {section}{\numberline {1.3}Sindrome tremorigeno-atassica associata a X-Fragile (FXTAS)}{11}{section.1.3}%
 \contentsline {subsection}{\numberline {1.3.1}Definizione}{11}{subsection.1.3.1}%
 \contentsline {subsection}{\numberline {1.3.2}Eziologia}{11}{subsection.1.3.2}%
 \contentsline {subsection}{\numberline {1.3.3}Epidemiologia}{12}{subsection.1.3.3}%
 \contentsline {subsection}{\numberline {1.3.4}Presentazione clinica}{12}{subsection.1.3.4}%
 \contentsline {subsection}{\numberline {1.3.5}Approccio diagnostico}{12}{subsection.1.3.5}%
-\contentsline {subsection}{\numberline {1.3.6}Anatomia patologica}{12}{subsection.1.3.6}%
-\contentsline {subsection}{\numberline {1.3.7}Imaging}{12}{subsection.1.3.7}%
-\contentsline {subsubsection}{RM}{12}{subsubsection*.12}%
-\contentsline {subsection}{\numberline {1.3.8}Trattamento e prognosi}{12}{subsection.1.3.8}%
-\contentsline {subsection}{\numberline {1.3.9}Checklist di refertazione}{12}{subsection.1.3.9}%
-\contentsline {subsection}{\numberline {1.3.10}Bibliografia}{12}{subsection.1.3.10}%
-\contentsline {section}{\numberline {1.4}Patologia}{12}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Definizione}{12}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Eziologia}{12}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}Epidemiologia}{12}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.4.4}Presentazione clinica}{12}{subsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.4.5}Approccio diagnostico}{12}{subsection.1.4.5}%
-\contentsline {subsection}{\numberline {1.4.6}Anatomia patologica}{12}{subsection.1.4.6}%
-\contentsline {subsection}{\numberline {1.4.7}Imaging}{12}{subsection.1.4.7}%
-\contentsline {subsection}{\numberline {1.4.8}Trattamento e prognosi}{12}{subsection.1.4.8}%
-\contentsline {subsection}{\numberline {1.4.9}Checklist di refertazione}{12}{subsection.1.4.9}%
-\contentsline {subsection}{\numberline {1.4.10}Bibliografia}{12}{subsection.1.4.10}%
+\contentsline {subsection}{\numberline {1.3.6}Anatomia patologica}{13}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Imaging}{13}{subsection.1.3.7}%
+\contentsline {subsubsection}{RM}{13}{subsubsection*.12}%
+\contentsline {subsection}{\numberline {1.3.8}Trattamento e prognosi}{13}{subsection.1.3.8}%
+\contentsline {subsection}{\numberline {1.3.9}Checklist di refertazione}{13}{subsection.1.3.9}%
+\contentsline {subsection}{\numberline {1.3.10}Bibliografia}{13}{subsection.1.3.10}%
+\contentsline {section}{\numberline {1.4}Patologia}{13}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Definizione}{13}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Eziologia}{13}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Epidemiologia}{13}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Presentazione clinica}{13}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Approccio diagnostico}{13}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.6}Anatomia patologica}{13}{subsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.4.7}Imaging}{13}{subsection.1.4.7}%
+\contentsline {subsection}{\numberline {1.4.8}Trattamento e prognosi}{13}{subsection.1.4.8}%
+\contentsline {subsection}{\numberline {1.4.9}Checklist di refertazione}{13}{subsection.1.4.9}%
+\contentsline {subsection}{\numberline {1.4.10}Bibliografia}{13}{subsection.1.4.10}%
 \partbegin 
 \partbegin 
 \ttl@change@i {\@ne }{chapter}{2.5pc}{\addvspace {15pt}}{\begin {tikzpicture} \pgftext {\LArge \bfseries \bfseries \color {black}\hspace {-1cm} Appendice\ \thecontentslabel {\color {white}.}\hspace {.5cm} } \end {tikzpicture}\Large }{}{\color {black}\titlerule \; \;\Large \bfseries Pagina \thecontentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
-\contentsline {chapter}{\numberline {A}Titolo}{17}{appendix.alph1.Alph1}%
-\contentsline {part}{Bibliografia}{19}{appendix*.15}%
-\contentsline {part}{Indice analitico}{20}{appendix*.16}%
+\contentsline {chapter}{\numberline {A}Titolo}{19}{appendix.alph1.Alph1}%
+\contentsline {part}{Bibliografia}{21}{appendix*.15}%
+\contentsline {part}{Indice analitico}{22}{appendix*.16}%
 \contentsfinish 
