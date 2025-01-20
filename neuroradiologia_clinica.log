@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  20 JAN 2025 09:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  20 JAN 2025 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2158,7 +2158,7 @@ Overfull \hbox (4.625pt too wide) detected at line 7
 
 
 Overfull \hbox (4.625pt too wide) detected at line 8
- [][][]\T1/lmr/m/n/9 7[][]
+ [][][]\T1/lmr/m/n/9 8[][]
  []
 
 
@@ -2203,7 +2203,7 @@ Overfull \hbox (9.25pt too wide) detected at line 20
 
 
 Overfull \hbox (9.25pt too wide) detected at line 21
- [][][]\T1/lmr/m/n/9 10[][]
+ [][][]\T1/lmr/m/n/9 11[][]
  []
 
 
@@ -2237,6 +2237,21 @@ Overfull \hbox (9.25pt too wide) detected at line 27
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+ []|| [][][]\T1/lmr/bx/n/9 Sindrome
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+ \T1/lmr/bx/n/9 tremorigeno-
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 28--28
+ \T1/lmr/bx/n/9 ta a X-Fragile
+ []
+
+
 Overfull \hbox (9.25pt too wide) detected at line 29
  [][][]\T1/lmr/m/n/9 11[][]
  []
@@ -2248,47 +2263,97 @@ Overfull \hbox (9.25pt too wide) detected at line 30
 
 
 Overfull \hbox (9.25pt too wide) detected at line 31
- [][][]\T1/lmr/m/n/9 11[][]
+ [][][]\T1/lmr/m/n/9 12[][]
  []
 
 
 Overfull \hbox (9.25pt too wide) detected at line 32
- [][][]\T1/lmr/m/n/9 11[][]
+ [][][]\T1/lmr/m/n/9 12[][]
  []
 
 
 Overfull \hbox (9.25pt too wide) detected at line 33
- [][][]\T1/lmr/m/n/9 11[][]
+ [][][]\T1/lmr/m/n/9 12[][]
  []
 
 
 Overfull \hbox (9.25pt too wide) detected at line 34
- [][][]\T1/lmr/m/n/9 11[][]
+ [][][]\T1/lmr/m/n/9 12[][]
  []
 
 
 Overfull \hbox (9.25pt too wide) detected at line 35
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 36
- [][][]\T1/lmr/m/n/9 11[][]
+ [][][]\T1/lmr/m/n/9 12[][]
  []
 
 
 Overfull \hbox (9.25pt too wide) detected at line 37
- [][][]\T1/lmr/m/n/9 11[][]
+ [][][]\T1/lmr/m/n/9 12[][]
  []
 
 
 Overfull \hbox (9.25pt too wide) detected at line 38
- [][][]\T1/lmr/m/n/9 11[][]
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 39
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 41
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 42
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 43
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 44
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 45
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 46
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 47
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 48
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 49
+ [][][]\T1/lmr/m/n/9 12[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 50
+ [][][]\T1/lmr/m/n/9 12[][]
  []
 
 ) (./Capitoli/degenerative/disturbi_movimento/parkinson.tex
 <FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illustratio
-n.jpg, id=201, 1053.9375pt x 837.1275pt>
+n.jpg, id=231, 1053.9375pt x 837.1275pt>
 File: FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illust
 ration.jpg Graphic file (type jpg)
 <use FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illustr
@@ -2304,15 +2369,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 20.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5
+[5
 
 
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5592) has occurred while \output is active []
 
 
 Underfull \vbox (badness 1803) has occurred while \output is active []
@@ -2365,7 +2427,7 @@ Underfull \hbox (badness 2293) in paragraph at lines 50--51
 [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg, id=254, 1
+<FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg, id=298, 1
 81.27927pt x 109.49268pt>
 File: FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg Graph
 ic file (type jpg)
@@ -2377,8 +2439,13 @@ Package pdftex.def Info: FileAusiliari/Immagini/degenerative/cureus-0014-000000
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8]
-<FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg, id=261, 533.74406
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+<FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg, id=304, 533.74406
 pt x 208.52907pt>
 File: FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg Graphic file 
 (type jpg)
@@ -2387,13 +2454,16 @@ Package pdftex.def Info: FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g00
 2.jpg  used on input line 84.
 (pdftex.def)             Requested size: 362.80768pt x 141.75015pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <./FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 6758) in paragraph at lines 117--117
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
@@ -2401,14 +2471,8 @@ Underfull \hbox (badness 6758) in paragraph at lines 117--117
 
 LaTeX Warning: Marginpar on page 10 moved.
 
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-(./Capitoli/degenerative/disturbi_movimento/atrofia_multisistemica.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 12.
- [10 <./FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg>]
+) (./Capitoli/degenerative/disturbi_movimento/atrofia_multisistemica.tex
+[10 <./FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg>]
 Underfull \hbox (badness 6758) in paragraph at lines 31--31
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
@@ -2419,22 +2483,36 @@ LaTeX Warning: Marginpar on page 11 moved.
 )
 (./Capitoli/degenerative/disturbi_movimento/paralisi_sopranucleare_progressiva.
 tex) (./Capitoli/degenerative/disturbi_movimento/demenza_levy.tex)
-(./Capitoli/degenerative/disturbi_movimento/degenerazione_corticobasale.tex)))
-(./Capitoli/metaboliche/main.tex) (./Capitoli/rachide/main.tex)
+(./Capitoli/degenerative/disturbi_movimento/degenerazione_corticobasale.tex)
+(./Capitoli/degenerative/disturbi_movimento/x_fragile.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+|[][]\T1/lmss/bx/n/13 Sin[]-[]dro[]-[]me [][]tre[]-[]mo[]-[]ri[]-[]ge[]-[]no[]-
+[]atas[]-[]si[]-[]ca
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \hbox (badness 6758) in paragraph at lines 45--45
+[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
+ []
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+))) (./Capitoli/metaboliche/main.tex) (./Capitoli/rachide/main.tex)
 (./Capitoli/periferico/main.tex) (./Capitoli/orbite/main.tex)
 (./Capitoli/chirurgiche/main.tex) (./Capitoli/rocche/main.tex)
 (./Capitoli/sella/main.tex) (./template.tex
-Underfull \vbox (badness 1152) has occurred while \output is active []
-
-
 Underfull \hbox (badness 6758) in paragraph at lines 28--28
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
 
 
-LaTeX Warning: Marginpar on page 11 moved.
+LaTeX Warning: Marginpar on page 12 moved.
 
-) [11]
+) [12{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2467,25 +2545,10 @@ LaTeX Warning: Marginpar on page 11 moved.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [12
-
-
-
-]
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.84949pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 11.55pt, for example:
-(fancyhdr)                \setlength{\footskip}{11.55pt}.
 
 [13
+
+
 
 ] [14]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -2532,8 +2595,7 @@ Appendice A.
 
 
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/loca
-l/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}
 
 ]
 (./neuroradiologia_clinica.bbl [18
@@ -2578,18 +2640,25 @@ Overfull \vbox (100.5pt too high) has occurred while \output is active []
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
-.
-(rerunfilecheck)             Checksum: AE9E716D51DCE1DBF991FE0073BECE9F;1026.
+
+
+Package rerunfilecheck Warning: File `neuroradiologia_clinica.out' has changed.
+
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `neuroradiologia_clinica.out':
+(rerunfilecheck)             Before: 6DFEFEBA65A9BE573C8C0EF28F52A300;1396
+(rerunfilecheck)             After:  4155053F92E5FB94571671B8D28D02D1;1105.
  ) 
 Here is how much of TeX's memory you used:
- 55835 strings out of 474116
- 1299785 string characters out of 5743682
- 2121145 words of memory out of 5000000
- 76856 multiletter control sequences out of 15000+600000
- 679077 words of font info for 112 fonts, out of 8000000 for 9000
+ 55840 strings out of 474116
+ 1300152 string characters out of 5743682
+ 2128145 words of memory out of 5000000
+ 76851 multiletter control sequences out of 15000+600000
+ 668709 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,14n,145p,2833b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,14n,145p,2569b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
 e/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texm
@@ -2597,18 +2666,17 @@ f-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2024/texmf-dist/font
 s/type1/public/lm/lmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
 lic/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr1
 2.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texliv
-e/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf
--dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/font
-s/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
-blic/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/
-lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.
-pfb>
-Output written on neuroradiologia_clinica.pdf (24 pages, 550623 bytes).
+local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/tex
+mf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fo
+nts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type
+1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/l
+m/lmsy9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/sym
+bols/msam10.pfb>
+Output written on neuroradiologia_clinica.pdf (24 pages, 557964 bytes).
 PDF statistics:
- 421 PDF objects out of 1000 (max. 8388607)
- 326 compressed objects within 4 object streams
- 78 named destinations out of 1000 (max. 500000)
- 198 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 461 PDF objects out of 1000 (max. 8388607)
+ 366 compressed objects within 4 object streams
+ 89 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 

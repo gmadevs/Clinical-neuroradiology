@@ -11,11 +11,11 @@
 \contentsline {subsubsection}{Fattori di rischio}{6}{subsubsection*.5}%
 \contentsline {subsection}{\numberline {1.1.4}Presentazione clinica}{6}{subsection.1.1.4}%
 \contentsline {subsection}{\numberline {1.1.5}Approccio diagnostico}{7}{subsection.1.1.5}%
-\contentsline {subsection}{\numberline {1.1.6}Anatomia patologica}{7}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.6}Anatomia patologica}{8}{subsection.1.1.6}%
 \contentsline {subsection}{\numberline {1.1.7}Imaging}{8}{subsection.1.1.7}%
 \contentsline {subsubsection}{TC}{8}{subsubsection*.6}%
-\contentsline {subsubsection}{RM}{8}{subsubsection*.8}%
-\contentsline {subsubsection}{Imaging nucleare}{9}{subsubsection*.10}%
+\contentsline {subsubsection}{RM}{9}{subsubsection*.8}%
+\contentsline {subsubsection}{Imaging nucleare}{10}{subsubsection*.10}%
 \contentsline {subsubsection}{Ecografia}{10}{subsubsection*.11}%
 \contentsline {subsection}{\numberline {1.1.8}Trattamento e prognosi}{10}{subsection.1.1.8}%
 \contentsline {subsection}{\numberline {1.1.9}Checklist di refertazione}{10}{subsection.1.1.9}%
@@ -24,29 +24,41 @@
 \contentsline {subsection}{\numberline {1.2.1}Definizione}{10}{subsection.1.2.1}%
 \contentsline {subsection}{\numberline {1.2.2}Eziologia}{10}{subsection.1.2.2}%
 \contentsline {subsection}{\numberline {1.2.3}Epidemiologia}{10}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}Presentazione clinica}{10}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.4}Presentazione clinica}{11}{subsection.1.2.4}%
 \contentsline {subsection}{\numberline {1.2.5}Approccio diagnostico}{11}{subsection.1.2.5}%
 \contentsline {subsection}{\numberline {1.2.6}Anatomia patologica}{11}{subsection.1.2.6}%
 \contentsline {subsection}{\numberline {1.2.7}Imaging}{11}{subsection.1.2.7}%
 \contentsline {subsection}{\numberline {1.2.8}Trattamento e prognosi}{11}{subsection.1.2.8}%
 \contentsline {subsection}{\numberline {1.2.9}Checklist di refertazione}{11}{subsection.1.2.9}%
 \contentsline {subsection}{\numberline {1.2.10}Bibliografia}{11}{subsection.1.2.10}%
-\contentsline {section}{\numberline {1.3}Patologia}{11}{section.1.3}%
+\contentsline {section}{\numberline {1.3}FXTAS}{11}{section.1.3}%
 \contentsline {subsection}{\numberline {1.3.1}Definizione}{11}{subsection.1.3.1}%
 \contentsline {subsection}{\numberline {1.3.2}Eziologia}{11}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}Epidemiologia}{11}{subsection.1.3.3}%
-\contentsline {subsection}{\numberline {1.3.4}Presentazione clinica}{11}{subsection.1.3.4}%
-\contentsline {subsection}{\numberline {1.3.5}Approccio diagnostico}{11}{subsection.1.3.5}%
-\contentsline {subsection}{\numberline {1.3.6}Anatomia patologica}{11}{subsection.1.3.6}%
-\contentsline {subsection}{\numberline {1.3.7}Imaging}{11}{subsection.1.3.7}%
-\contentsline {subsection}{\numberline {1.3.8}Trattamento e prognosi}{11}{subsection.1.3.8}%
-\contentsline {subsection}{\numberline {1.3.9}Checklist di refertazione}{11}{subsection.1.3.9}%
-\contentsline {subsection}{\numberline {1.3.10}Bibliografia}{11}{subsection.1.3.10}%
+\contentsline {subsection}{\numberline {1.3.3}Epidemiologia}{12}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Presentazione clinica}{12}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Approccio diagnostico}{12}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}Anatomia patologica}{12}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Imaging}{12}{subsection.1.3.7}%
+\contentsline {subsubsection}{RM}{12}{subsubsection*.12}%
+\contentsline {subsection}{\numberline {1.3.8}Trattamento e prognosi}{12}{subsection.1.3.8}%
+\contentsline {subsection}{\numberline {1.3.9}Checklist di refertazione}{12}{subsection.1.3.9}%
+\contentsline {subsection}{\numberline {1.3.10}Bibliografia}{12}{subsection.1.3.10}%
+\contentsline {section}{\numberline {1.4}Patologia}{12}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Definizione}{12}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Eziologia}{12}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Epidemiologia}{12}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Presentazione clinica}{12}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Approccio diagnostico}{12}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.6}Anatomia patologica}{12}{subsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.4.7}Imaging}{12}{subsection.1.4.7}%
+\contentsline {subsection}{\numberline {1.4.8}Trattamento e prognosi}{12}{subsection.1.4.8}%
+\contentsline {subsection}{\numberline {1.4.9}Checklist di refertazione}{12}{subsection.1.4.9}%
+\contentsline {subsection}{\numberline {1.4.10}Bibliografia}{12}{subsection.1.4.10}%
 \partbegin 
 \partbegin 
 \ttl@change@i {\@ne }{chapter}{2.5pc}{\addvspace {15pt}}{\begin {tikzpicture} \pgftext {\LArge \bfseries \bfseries \color {black}\hspace {-1cm} Appendice\ \thecontentslabel {\color {white}.}\hspace {.5cm} } \end {tikzpicture}\Large }{}{\color {black}\titlerule \; \;\Large \bfseries Pagina \thecontentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
 \contentsline {chapter}{\numberline {A}Titolo}{17}{appendix.alph1.Alph1}%
-\contentsline {part}{Bibliografia}{19}{appendix*.14}%
-\contentsline {part}{Indice analitico}{20}{appendix*.15}%
+\contentsline {part}{Bibliografia}{19}{appendix*.15}%
+\contentsline {part}{Indice analitico}{20}{appendix*.16}%
 \contentsfinish 
