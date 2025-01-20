@@ -71,3 +71,11 @@ Ti piace il progetto? 🌟 Supportaci lasciando una stella a questa repository!
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
+### 📊 Statistiche
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/gmadevs/Neuroradiologia-Clinica)](https://github.com/gmadevs/Neuroradiologia-Clinica/commits)
+[![GitHub repo size](https://img.shields.io/github/repo-size/gmadevs/Neuroradiologia-Clinica)](https://github.com/gmadevs/Neuroradiologia-Clinica)
+[![GitHub contributors](https://img.shields.io/github/contributors/gmadevs/Neuroradiologia-Clinica)](https://github.com/gmadevs/Neuroradiologia-Clinica/graphs/contributors)
+[![GitHub all releases](https://img.shields.io/github/downloads/gmadevs/Neuroradiologia-Clinica/total)](https://github.com/gmadevs/Neuroradiologia-Clinica/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/gmadevs/Neuroradiologia-Clinica/latest/total)](https://github.com/gmadevs/Neuroradiologia-Clinica/releases/latest)
+
