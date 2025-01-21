@@ -1,6 +1,6 @@
 # Neuroradiologia Clinica - I Edizione
 
-Benvenuto nella repository ufficiale del libro **"Neuroradiologia Clinica"**, un progetto open source scritto interamente in LaTeX per supportare lo studio e la pratica della neuroradiologia. Questo progetto mira a fornire una risorsa completa e accessibile per studenti, medici e appassionati del settore.
+Benvenuto nella repository ufficiale del libro **"Neuroradiologia Clinica"**, un progetto open source scritto interamente in LaTeX per supportare lo studio e l'apprendimento della neuroradiologia. Questo progetto mira a fornire una risorsa completa e gratuita, accessibile per specializzandi e medici specialisti.
 
 ## 📚 Contenuti della Repository
 
