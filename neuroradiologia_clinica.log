@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  21 JAN 2025 21:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  21 JAN 2025 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2652,7 +2652,7 @@ Overfull \hbox (9.25pt too wide) detected at line 4
 
 
 Overfull \hbox (9.25pt too wide) detected at line 5
- [][][]\T1/lmr/m/n/9 18[][]
+ [][][]\T1/lmr/m/n/9 17[][]
  []
 
 
@@ -2671,104 +2671,88 @@ Overfull \hbox (9.25pt too wide) detected at line 8
  []
 
 
-Overfull \hbox (9.25pt too wide) detected at line 13
+Overfull \hbox (9.25pt too wide) detected at line 17
  [][][]\T1/lmr/m/n/9 23[][]
  []
 
 
-Overfull \hbox (9.25pt too wide) detected at line 15
+Overfull \hbox (9.25pt too wide) detected at line 21
  [][][]\T1/lmr/m/n/9 24[][]
  []
 
 
-Overfull \hbox (9.25pt too wide) detected at line 16
+Overfull \hbox (9.25pt too wide) detected at line 22
  [][][]\T1/lmr/m/n/9 24[][]
  []
 
 ) (./Capitoli/pediatrica/vascolare/ipossico-ischemico.tex
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 14.
+(Font)              <8> on input line 13.
  [17
 
 
 
 ]
-Underfull \hbox (badness 1466) in paragraph at lines 76--78
-[]\T1/lmr/bx/n/9 Alterazioni del to-no mu-sco-la-re\T1/lmr/m/n/9 : I
- []
-
-
-Underfull \hbox (badness 3557) in paragraph at lines 76--78
-\T1/lmr/m/n/9 neo-na-ti pos-so-no pre-sen-ta-re ipo-to-nia o
- []
-
-
-Underfull \hbox (badness 2012) in paragraph at lines 84--85
-[]\T1/lmr/bx/n/9 Alterazioni del-lo sta-to di vi-gi-lan-
- []
-
-
-Underfull \hbox (badness 3364) in paragraph at lines 91--93
-[]\T1/lmr/bx/n/9 Esami elet-tro-fi-sio-lo-gi-ci\T1/lmr/m/n/9 : L'e-let-troen-ce
--fa-lo-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
-[19]
-Underfull \hbox (badness 4479) in paragraph at lines 161--163
+Underfull \hbox (badness 4479) in paragraph at lines 92--94
 []\T1/lmr/bx/n/9 Gravità del-l'in-sul-to: \T1/lmr/m/n/9 epi-so-di di ipossia-
  []
 
-
-Underfull \hbox (badness 1558) in paragraph at lines 185--186
+[19]
+Underfull \hbox (badness 1558) in paragraph at lines 144--145
 []\T1/lmr/bx/n/9 Coinvolgimento ce-re-bel-la-re: \T1/lmr/m/n/9 Le se-quen-ze
  []
 
 [20]
-Underfull \hbox (badness 4084) in paragraph at lines 212--214
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 171--173
 []\T1/lmr/m/n/9 La MRS ri-chie-de più tem-po ri-spet-to
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 214--216
+Underfull \hbox (badness 2285) in paragraph at lines 173--175
 []\T1/lmr/m/n/9 La MRS può stu-dia-re so-lo re-gio-ni di
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 216--218
+Underfull \hbox (badness 5954) in paragraph at lines 175--177
 []\T1/lmr/m/n/9 Le al-te-ra-zio-ni dei me-ta-bo-li-ti pos-so-no
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 216--218
+Underfull \hbox (badness 2343) in paragraph at lines 175--177
 \T1/lmr/m/n/9 evol-ve-re ra-pi-da-men-te, per que-sto so-no
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-Underfull \hbox (badness 1496) in paragraph at lines 267--268
+[21]
+Underfull \hbox (badness 1496) in paragraph at lines 226--227
 []\T1/lmr/bx/n/9 ABA: \T1/lmr/m/n/9 Uti-liz-za atlan-ti ce-re-bra-li per la
  []
 
 [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
  [23]
-Underfull \hbox (badness 2529) in paragraph at lines 344--346
+Underfull \hbox (badness 2529) in paragraph at lines 303--305
 []\T1/lmr/bx/n/9 Ecografia: \T1/lmr/m/n/9 L'e-co-gra-fia può ri-le-va-re ini-zi
 al-
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 3019) in paragraph at lines 336--337
+\T1/lmr/m/n/5 En-ce-pha-lo-pa-thy: Mul-ti-mo-da-li-ty Ima-ging Fin-dings. Ra-di
+o-Gra-phics
+ []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 362--362
+Underfull \hbox (badness 6758) in paragraph at lines 341--341
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
 
@@ -2854,7 +2838,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                in the neuroradiologia_clinica.log file.
 
 
-Overfull \vbox (100.5pt too high) has occurred while \output is active []
+Overfull \vbox (53.0pt too high) has occurred while \output is active []
 
  [30
 
@@ -2864,53 +2848,39 @@ Overfull \vbox (100.5pt too high) has occurred while \output is active []
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package rerunfilecheck Warning: File `neuroradiologia_clinica.out' has changed.
-
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `neuroradiologia_clinica.out':
-(rerunfilecheck)             Before: 72941D3C4271FB2D82FE3252736E4242;1766
-(rerunfilecheck)             After:  44600DF858E81765144C2707255A4AE4;1766.
+Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
+.
+(rerunfilecheck)             Checksum: 5B7655439DBFC679575413DD2ECF6EFC;1766.
  ) 
 Here is how much of TeX's memory you used:
- 56193 strings out of 474116
- 1308543 string characters out of 5743682
+ 56197 strings out of 474116
+ 1308592 string characters out of 5743682
  2127976 words of memory out of 5000000
- 77127 multiletter control sequences out of 15000+600000
- 684869 words of font info for 114 fonts, out of 8000000 for 9000
+ 77128 multiletter control sequences out of 15000+600000
+ 687854 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,14n,145p,2569b,1353s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{appendix*.21} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{appendix*.20} has been referenced but does not exis
-t, replaced by a fixed one
-
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/
-2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texmf-
-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/
-type1/public/lm/lmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publi
-c/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.
-pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/
-2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf-d
-ist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/
-type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publ
-ic/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lm
-sso9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/
-texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/202
-4/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on neuroradiologia_clinica.pdf (34 pages, 654327 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texm
+f-dist/fonts/type1/public/lm/lmmi5.pfb></usr/local/texlive/2024/texmf-dist/font
+s/type1/public/lm/lmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
+lic/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr1
+2.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf
+-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/font
+s/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
+blic/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/
+lmsso9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/loca
+l/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2
+024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texli
+ve/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb>
+Output written on neuroradiologia_clinica.pdf (34 pages, 678666 bytes).
 PDF statistics:
- 584 PDF objects out of 1000 (max. 8388607)
- 468 compressed objects within 5 object streams
- 120 named destinations out of 1000 (max. 500000)
+ 592 PDF objects out of 1000 (max. 8388607)
+ 474 compressed objects within 5 object streams
+ 122 named destinations out of 1000 (max. 500000)
  228 words of extra memory for PDF output out of 10000 (max. 10000000)
 
