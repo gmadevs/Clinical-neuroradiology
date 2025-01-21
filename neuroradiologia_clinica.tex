@@ -8,8 +8,7 @@
 \usepackage{enumitem} % Per personalizzare gli elenchi
 \usepackage{amssymb}  % Per i simboli delle checkbox
 \usepackage{filemod} % Modifiche file
-\usepackage[ddmmyyyy]{datetime}
-\renewcommand{\dateseparator}{/}
+\def\tightlist{}
 %%%%% Pacchetti
 \usepackage{FileAusiliari/Layout}			% Contiene i pacchetti e le impostazioni per il layout
 \usepackage{FileAusiliari/Pacchetti}		% Pacchetti aggiuntivi di vario tipo (senza tikz)
@@ -87,7 +86,7 @@
 
 
 \newgeometry{top=35mm, bottom=35mm, left=15mm, right=15mm, headheight=0pt, headsep=0pt, marginparsep=0pt, marginparwidth=0pt, footskip=0pt, footnotesep=0pt}
-\part*{\HUGE Neuroimaging di encefalo e colonna}\label{Parte1}
+\part*{\HUGE Neuradiologia Clinica}\label{Parte1}
 \restoregeometry
 
 %%%%%								CAPITOLI
@@ -108,11 +107,17 @@
 \input{Capitoli/rocche/main.tex}
 \input{Capitoli/sella/main.tex}
 \input{template.tex}
-
+%%% Parte 2
 
 \newgeometry{top=35mm, bottom=35mm, left=15mm, right=15mm, headheight=0pt, headsep=0pt, marginparsep=0pt, marginparwidth=0pt, footskip=0pt, footnotesep=0pt}
-\part*{\HUGE Neuroimaging pediatrico}\label{Parte2}
+\part*{\HUGE Neuroradiologia Pediatrica}\label{Parte2}
 \restoregeometry
+
+%%%CAPITOLI
+
+\input{Capitoli/pediatrica/anatomia/main.tex}
+\input{Capitoli/pediatrica/vascolare/main.tex}
+\input{Capitoli/pediatrica/metaboliche/main.tex}
 
 %%%%%								APPENDICI
 \newgeometry{top=35mm, bottom=35mm, left=15mm, right=15mm, headheight=0pt, headsep=0pt, marginparsep=0pt, marginparwidth=0pt, footskip=0pt, footnotesep=0pt}
