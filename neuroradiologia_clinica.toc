@@ -66,15 +66,16 @@
 \contentsline {subsection}{\numberline {2.1.7}Imaging}{18}{subsection.2.1.7}%
 \contentsline {subsubsection}{TC}{18}{subsubsection*.14}%
 \contentsline {subsubsection}{RM}{19}{subsubsection*.15}%
-\contentsline {subsubsection}{Ecografia}{21}{subsubsection*.16}%
-\contentsline {subsection}{\numberline {2.1.8}Trattamento e prognosi}{22}{subsection.2.1.8}%
-\contentsline {subsubsection}{Leucomalacia periventricolare}{22}{subsubsection*.17}%
-\contentsline {subsection}{\numberline {2.1.9}Checklist di refertazione}{23}{subsection.2.1.9}%
-\contentsline {subsection}{\numberline {2.1.10}Bibliografia}{23}{subsection.2.1.10}%
+\contentsline {paragraph}{DTI}{21}{paragraph*.16}%
+\contentsline {subsubsection}{Ecografia}{22}{subsubsection*.17}%
+\contentsline {subsection}{\numberline {2.1.8}Trattamento e prognosi}{23}{subsection.2.1.8}%
+\contentsline {subsubsection}{Leucomalacia periventricolare}{23}{subsubsection*.18}%
+\contentsline {subsection}{\numberline {2.1.9}Checklist di refertazione}{24}{subsection.2.1.9}%
+\contentsline {subsection}{\numberline {2.1.10}Bibliografia}{24}{subsection.2.1.10}%
 \partbegin 
 \ttl@change@i {\@ne }{chapter}{2.5pc}{\addvspace {15pt}}{\begin {tikzpicture} \pgftext {\LArge \bfseries \bfseries \color {black}\hspace {-1cm} Appendice\ \thecontentslabel {\color {white}.}\hspace {.5cm} } \end {tikzpicture}\Large }{}{\color {black}\titlerule \; \;\Large \bfseries Pagina \thecontentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
 \contentsline {chapter}{\numberline {A}Titolo}{27}{appendix.alph1.Alph1}%
-\contentsline {part}{Bibliografia}{29}{appendix*.19}%
-\contentsline {part}{Indice analitico}{30}{appendix*.20}%
+\contentsline {part}{Bibliografia}{29}{appendix*.20}%
+\contentsline {part}{Indice analitico}{30}{appendix*.21}%
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  21 JAN 2025 19:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  21 JAN 2025 19:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2671,18 +2671,18 @@ Overfull \hbox (9.25pt too wide) detected at line 8
  []
 
 
-Overfull \hbox (9.25pt too wide) detected at line 12
- [][][]\T1/lmr/m/n/9 22[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 14
+Overfull \hbox (9.25pt too wide) detected at line 13
  [][][]\T1/lmr/m/n/9 23[][]
  []
 
 
 Overfull \hbox (9.25pt too wide) detected at line 15
- [][][]\T1/lmr/m/n/9 23[][]
+ [][][]\T1/lmr/m/n/9 24[][]
+ []
+
+
+Overfull \hbox (9.25pt too wide) detected at line 16
+ [][][]\T1/lmr/m/n/9 24[][]
  []
 
 ) (./Capitoli/pediatrica/vascolare/ipossico-ischemico.tex
@@ -2747,23 +2747,25 @@ Underfull \hbox (badness 2343) in paragraph at lines 217--219
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-Underfull \hbox (badness 2529) in paragraph at lines 291--293
+Underfull \hbox (badness 1496) in paragraph at lines 270--271
+[]\T1/lmr/bx/n/9 ABA: \T1/lmr/m/n/9 Uti-liz-za atlan-ti ce-re-bra-li per la
+ []
+
+[22]
+Underfull \hbox (badness 2529) in paragraph at lines 347--349
 []\T1/lmr/bx/n/9 Ecografia: \T1/lmr/m/n/9 L'e-co-gra-fia può ri-le-va-re ini-zi
 al-
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-Underfull \hbox (badness 6758) in paragraph at lines 309--309
+[23]
+Underfull \hbox (badness 6758) in paragraph at lines 365--365
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
 
 
-LaTeX Warning: Marginpar on page 23 moved.
+LaTeX Warning: Marginpar on page 24 moved.
 
-)) (./Capitoli/pediatrica/metaboliche/main.tex) [23
+)) (./Capitoli/pediatrica/metaboliche/main.tex) [24
 
 ]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -2798,27 +2800,12 @@ LaTeX Warning: Marginpar on page 23 moved.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [24
+ [25
 
 
 
-]
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.84949pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 11.55pt, for example:
-(fancyhdr)                \setlength{\footskip}{11.55pt}.
-
-[25
-
-] [26] (./Appendici/AppendiceA.tex
+] [26]
+(./Appendici/AppendiceA.tex
 Appendice A.
 ) [27
 
@@ -2871,14 +2858,14 @@ L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
-(rerunfilecheck)             Checksum: 9F182ED4056C1D8929353CC04A60E1FB;1766.
+(rerunfilecheck)             Checksum: 72941D3C4271FB2D82FE3252736E4242;1766.
  ) 
 Here is how much of TeX's memory you used:
- 56184 strings out of 474116
- 1308423 string characters out of 5743682
+ 56189 strings out of 474116
+ 1308493 string characters out of 5743682
  2127976 words of memory out of 5000000
- 77124 multiletter control sequences out of 15000+600000
- 682058 words of font info for 113 fonts, out of 8000000 for 9000
+ 77127 multiletter control sequences out of 15000+600000
+ 684869 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,14n,145p,2569b,1353s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
@@ -2893,13 +2880,14 @@ e/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf
 -dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/font
 s/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
 blic/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/
-lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local
-/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on neuroradiologia_clinica.pdf (34 pages, 628924 bytes).
+lmsso9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/loca
+l/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2
+024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on neuroradiologia_clinica.pdf (34 pages, 651743 bytes).
 PDF statistics:
- 574 PDF objects out of 1000 (max. 8388607)
- 460 compressed objects within 5 object streams
- 115 named destinations out of 1000 (max. 500000)
+ 580 PDF objects out of 1000 (max. 8388607)
+ 464 compressed objects within 5 object streams
+ 116 named destinations out of 1000 (max. 500000)
  228 words of extra memory for PDF output out of 10000 (max. 10000000)
 
