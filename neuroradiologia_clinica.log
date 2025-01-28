@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  21 JAN 2025 22:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  28 JAN 2025 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -160,6 +160,10 @@ Package: filemod 2011/09/19 v1.2 Get and compare file modification times
 Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
  (expandable; minimal)
 ))
+Package minitoc Info: I0052
+(minitoc)             \mtcsetoffset redefines 
+(minitoc)             "mtcoffset" as "-2.0em" on input line 11.
+
 (./FileAusiliari/Layout.sty
 (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -1817,7 +1821,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 15.
 )
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM neuroradiologia_clinica.toc on in
-put line 25.
+put line 27.
 \openout3 = `neuroradiologia_clinica.mtc'.
 
 Package minitoc Info: I0033
@@ -1836,7 +1840,7 @@ Package minitoc Info: I0033
 (minitoc)             Writing neuroradiologia_clinica.mtc3.
 \openout3 = `neuroradiologia_clinica.mtc3'.
 
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 25
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 27
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
@@ -1845,26 +1849,26 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (./neuroradiologia_clinica.aux)
 \openout1 = `neuroradiologia_clinica.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Info: Redefining \it@ocap on input line 25.
-LaTeX Info: Redefining \it@ccap on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Info: Redefining \it@ocap on input line 27.
+LaTeX Info: Redefining \it@ccap on input line 27.
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -1967,7 +1971,7 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 25.
+Package hyperref Info: Link coloring ON on input line 27.
 (./neuroradiologia_clinica.out) (./neuroradiologia_clinica.out)
 \@outlinefile=\write6
 \openout6 = `neuroradiologia_clinica.out'.
@@ -2000,7 +2004,7 @@ al/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]) [1
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
-7.
+9.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -2016,55 +2020,55 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 
 ]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
-8.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
+0.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
-8.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
+0.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-88.
+90.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-88.
+90.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 88.
+(Font)              <9> on input line 90.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 88.
+(Font)              <6> on input line 90.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 88.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+(Font)              <5> on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
 
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
 
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 88
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 90
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+zavm on input line 88
+LaTeX Font Info:    Trying to load font information for U+zavm on input line 90
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/arev/uzavm.fd
@@ -2144,11 +2148,6 @@ Capitolo 1.
 \openout3 = `neuroradiologia_clinica.mtc'.
 
 (./neuroradiologia_clinica.mtc1
-Underfull \hbox (badness 2460) in paragraph at lines 1--1
- []|| [][][]\T1/lmr/bx/n/9 Morbo di Par-
- []
-
-
 Overfull \hbox (4.625pt too wide) detected at line 2
  [][][]\T1/lmr/m/n/9 5[][]
  []
@@ -2196,11 +2195,6 @@ Overfull \hbox (9.25pt too wide) detected at line 15
 
 Overfull \hbox (9.25pt too wide) detected at line 16
  [][][]\T1/lmr/m/n/9 10[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
- []|| [][][]\T1/lmr/bx/n/9 Atrofia Multi-
  []
 
 
@@ -2254,21 +2248,6 @@ Overfull \hbox (9.25pt too wide) detected at line 27
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
- []|| [][][]\T1/lmr/bx/n/9 Sindrome
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
- \T1/lmr/bx/n/9 tremorigeno-
- []
-
-
-Underfull \hbox (badness 4981) in paragraph at lines 28--28
- \T1/lmr/bx/n/9 ta a X-Fragile
- []
-
-
 Overfull \hbox (9.25pt too wide) detected at line 29
  [][][]\T1/lmr/m/n/9 11[][]
  []
@@ -2280,7 +2259,7 @@ Overfull \hbox (9.25pt too wide) detected at line 30
 
 
 Overfull \hbox (9.25pt too wide) detected at line 31
- [][][]\T1/lmr/m/n/9 12[][]
+ [][][]\T1/lmr/m/n/9 11[][]
  []
 
 
@@ -2441,10 +2420,11 @@ Underfull \hbox (badness 2293) in paragraph at lines 50--51
    [] \T1/lmr/m/n/10 Com-pli-can-ze del-la te-ra-
  []
 
-[7]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg, id=312, 1
+ [7]
+<FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg, id=307, 1
 81.27927pt x 109.49268pt>
 File: FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg Graph
 ic file (type jpg)
@@ -2456,13 +2436,10 @@ Package pdftex.def Info: FileAusiliari/Immagini/degenerative/cureus-0014-000000
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
+[8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
-Underfull \vbox (badness 3872) has occurred while \output is active []
-
-<FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg, id=319, 533.74406
+<FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg, id=314, 533.74406
 pt x 208.52907pt>
 File: FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg Graphic file 
 (type jpg)
@@ -2478,9 +2455,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9 <./FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Underfull \hbox (badness 6758) in paragraph at lines 117--117
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
@@ -2508,7 +2482,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2310) has occurred while \output is active []
 
 
 
@@ -2520,6 +2494,9 @@ Package fancyhdr Warning: \headheight is too small (21.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.29948pt}.
 
 [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 3895) in paragraph at lines 35--36
 \T1/lmr/m/n/9 uno mi-no-re (par-kin-so-ni-
  []
@@ -2631,11 +2608,6 @@ Capitolo 2.
 \openout3 = `neuroradiologia_clinica.mtc'.
 
 (./neuroradiologia_clinica.mtc2
-Underfull \hbox (badness 1365) in paragraph at lines 1--1
- []|| [][][]\T1/lmr/bx/n/9 Danno ipossico-
- []
-
-
 Overfull \hbox (9.25pt too wide) detected at line 2
  [][][]\T1/lmr/m/n/9 17[][]
  []
@@ -2746,13 +2718,19 @@ al-
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 336--337
+Underfull \hbox (badness 1769) in paragraph at lines 340--342
+\T1/lmr/m/n/5 8. Chao CP, Za-le-ski CG, Pat-ton AC. Neo-na-tal Hypoxic-Ischemic
+
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 340--342
 \T1/lmr/m/n/5 En-ce-pha-lo-pa-thy: Mul-ti-mo-da-li-ty Ima-ging Fin-dings. Ra-di
 o-Gra-phics
  []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 341--341
+Underfull \hbox (badness 6758) in paragraph at lines 346--346
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
 
@@ -2853,10 +2831,10 @@ Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 (rerunfilecheck)             Checksum: 5B7655439DBFC679575413DD2ECF6EFC;1766.
  ) 
 Here is how much of TeX's memory you used:
- 56197 strings out of 474116
- 1308592 string characters out of 5743682
- 2127976 words of memory out of 5000000
- 77128 multiletter control sequences out of 15000+600000
+ 56196 strings out of 474116
+ 1308573 string characters out of 5743682
+ 2126001 words of memory out of 5000000
+ 77127 multiletter control sequences out of 15000+600000
  687854 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,14n,145p,2569b,1353s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2877,10 +2855,10 @@ lmsso9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
 l/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2
 024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texli
 ve/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb>
-Output written on neuroradiologia_clinica.pdf (34 pages, 678666 bytes).
+Output written on neuroradiologia_clinica.pdf (34 pages, 678127 bytes).
 PDF statistics:
- 592 PDF objects out of 1000 (max. 8388607)
- 474 compressed objects within 5 object streams
+ 586 PDF objects out of 1000 (max. 8388607)
+ 468 compressed objects within 5 object streams
  122 named destinations out of 1000 (max. 500000)
  228 words of extra memory for PDF output out of 10000 (max. 10000000)
 
