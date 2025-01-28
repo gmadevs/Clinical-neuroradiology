@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  28 JAN 2025 19:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  28 JAN 2025 20:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2174,7 +2174,7 @@ Overfull \hbox (4.625pt too wide) detected at line 7
 
 
 Overfull \hbox (4.625pt too wide) detected at line 8
- [][][]\T1/lmr/m/n/9 8[][]
+ [][][]\T1/lmr/m/n/9 7[][]
  []
 
 
@@ -2214,7 +2214,7 @@ Overfull \hbox (9.25pt too wide) detected at line 20
 
 
 Overfull \hbox (9.25pt too wide) detected at line 21
- [][][]\T1/lmr/m/n/9 11[][]
+ [][][]\T1/lmr/m/n/9 10[][]
  []
 
 
@@ -2386,44 +2386,23 @@ Package mdframed Info: mdframed detected package amsthm
 Package hyperref Info: bookmark level for unknown Oss defaults to 0 on input li
 ne 44.
 
-Underfull \hbox (badness 2762) in paragraph at lines 47--48
+Underfull \hbox (badness 2173) in paragraph at lines 47--48
    [] \T1/lmr/m/n/10 Espe-rien-ze non mo-to-rie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\T1/lmr/m/n/10 del-la vi-ta quo-ti-dia-na.
+Underfull \hbox (badness 2173) in paragraph at lines 48--49
+   [] \T1/lmr/m/n/10 Espe-rien-ze mo-to-rie del-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\T1/lmr/m/n/10 Que-sta se-zio-ne va-lu-ta
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\T1/lmr/m/n/10 co-gni-ti-ve, i di-stur-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\T1/lmr/m/n/10 bi com-por-ta-men-ta-li e
- []
-
-
-Underfull \hbox (badness 1721) in paragraph at lines 48--49
-\T1/lmr/m/n/10 se-zio-ne va-lu-ta l'im-pat-to
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 50--51
+Underfull \hbox (badness 1776) in paragraph at lines 50--51
    [] \T1/lmr/m/n/10 Com-pli-can-ze del-la te-ra-
  []
 
-
+[7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
 <FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg, id=307, 1
 81.27927pt x 109.49268pt>
 File: FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg Graph
@@ -2437,8 +2416,6 @@ Package pdftex.def Info: FileAusiliari/Immagini/degenerative/cureus-0014-000000
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 <FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg, id=314, 533.74406
 pt x 208.52907pt>
 File: FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg Graphic file 
@@ -2454,6 +2431,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 1205) has occurred while \output is active []
+
  [9 <./FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg>]
 Underfull \hbox (badness 6758) in paragraph at lines 117--117
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
@@ -2463,7 +2443,9 @@ Underfull \hbox (badness 6758) in paragraph at lines 117--117
 LaTeX Warning: Marginpar on page 10 moved.
 
 ) (./Capitoli/degenerative/disturbi_movimento/atrofia_multisistemica.tex
-[10 <./FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg>]
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+ [10 <./FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg>]
 Underfull \hbox (badness 6758) in paragraph at lines 31--31
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
@@ -2482,7 +2464,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--1
  []
 
 
-Underfull \vbox (badness 2310) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -2497,29 +2479,6 @@ Package fancyhdr Warning: \headheight is too small (21.0pt):
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 35--36
-\T1/lmr/m/n/9 uno mi-no-re (par-kin-so-ni-
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 35--36
-\T1/lmr/m/n/9 smo o de-fi-cit co-gni-ti-vo),
- []
-
-
-Underfull \hbox (badness 1648) in paragraph at lines 35--36
-\T1/lmr/m/n/9 op-pu-re un cri-te-rio cli-ni-
- []
-
-
-Underfull \hbox (badness 1708) in paragraph at lines 35--36
-\T1/lmr/m/n/9 co mi-no-re e un cri-te-rio
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (21.0pt): 
 (fancyhdr)                Make it at least 21.29948pt, for example:
@@ -2529,7 +2488,23 @@ Package fancyhdr Warning: \headheight is too small (21.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.29948pt}.
 
 [12{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
-Underfull \hbox (badness 6758) in paragraph at lines 62--62
+<FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g001.jpg, id=342, 147.6372
+8pt x 44.60092pt>
+File: FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g001.jpg Graphic file
+ (type jpg)
+<use FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g001.jpg>
+Package pdftex.def Info: FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g0
+01.jpg  used on input line 48.
+(pdftex.def)             Requested size: 317.45412pt x 95.90982pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 70--70
 []\T1/lmr/m/n/5.6 Nota a mar-gi-ne
  []
 
@@ -2547,7 +2522,7 @@ Underfull \hbox (badness 6758) in paragraph at lines 28--28
 
 LaTeX Warning: Marginpar on page 13 moved.
 
-) [13]
+) [13] [14 <./FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g001.jpg>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2580,25 +2555,10 @@ LaTeX Warning: Marginpar on page 13 moved.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [14
-
-
-
-]
-
-Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.84949pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.84949pt}.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 11.55pt, for example:
-(fancyhdr)                \setlength{\footskip}{11.55pt}.
 
 [15
+
+
 
 ] [16] (./Capitoli/pediatrica/anatomia/main.tex)
 (./Capitoli/pediatrica/vascolare/main.tex
@@ -2828,13 +2788,13 @@ L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
-(rerunfilecheck)             Checksum: 5B7655439DBFC679575413DD2ECF6EFC;1766.
+(rerunfilecheck)             Checksum: 620B6FB2E1480E9A0D2BC085AE97AC8F;1766.
  ) 
 Here is how much of TeX's memory you used:
- 56196 strings out of 474116
- 1308573 string characters out of 5743682
- 2126001 words of memory out of 5000000
- 77127 multiletter control sequences out of 15000+600000
+ 56214 strings out of 474116
+ 1309550 string characters out of 5743682
+ 2124001 words of memory out of 5000000
+ 77144 multiletter control sequences out of 15000+600000
  687854 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,14n,145p,2569b,1353s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2855,10 +2815,10 @@ lmsso9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
 l/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2
 024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texli
 ve/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb>
-Output written on neuroradiologia_clinica.pdf (34 pages, 678127 bytes).
+Output written on neuroradiologia_clinica.pdf (34 pages, 744079 bytes).
 PDF statistics:
- 586 PDF objects out of 1000 (max. 8388607)
- 468 compressed objects within 5 object streams
- 122 named destinations out of 1000 (max. 500000)
- 228 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 588 PDF objects out of 1000 (max. 8388607)
+ 469 compressed objects within 5 object streams
+ 123 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 

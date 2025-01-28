@@ -11,11 +11,11 @@
 \contentsline {subsubsection}{Fattori di rischio}{6}{subsubsection*.5}%
 \contentsline {subsection}{\numberline {1.1.4}Presentazione clinica}{6}{subsection.1.1.4}%
 \contentsline {subsection}{\numberline {1.1.5}Approccio diagnostico}{7}{subsection.1.1.5}%
-\contentsline {subsection}{\numberline {1.1.6}Anatomia patologica}{8}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.6}Anatomia patologica}{7}{subsection.1.1.6}%
 \contentsline {subsection}{\numberline {1.1.7}Imaging}{8}{subsection.1.1.7}%
 \contentsline {subsubsection}{TC}{8}{subsubsection*.6}%
 \contentsline {subsubsection}{RM}{8}{subsubsection*.8}%
-\contentsline {subsubsection}{Imaging nucleare}{10}{subsubsection*.10}%
+\contentsline {subsubsection}{Imaging nucleare}{9}{subsubsection*.10}%
 \contentsline {subsubsection}{Ecografia}{10}{subsubsection*.11}%
 \contentsline {subsection}{\numberline {1.1.8}Trattamento e prognosi}{10}{subsection.1.1.8}%
 \contentsline {subsection}{\numberline {1.1.9}Checklist di refertazione}{10}{subsection.1.1.9}%
@@ -24,7 +24,7 @@
 \contentsline {subsection}{\numberline {1.2.1}Definizione}{10}{subsection.1.2.1}%
 \contentsline {subsection}{\numberline {1.2.2}Eziologia}{10}{subsection.1.2.2}%
 \contentsline {subsection}{\numberline {1.2.3}Epidemiologia}{10}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}Presentazione clinica}{11}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.4}Presentazione clinica}{10}{subsection.1.2.4}%
 \contentsline {subsection}{\numberline {1.2.5}Approccio diagnostico}{11}{subsection.1.2.5}%
 \contentsline {subsection}{\numberline {1.2.6}Anatomia patologica}{11}{subsection.1.2.6}%
 \contentsline {subsection}{\numberline {1.2.7}Imaging}{11}{subsection.1.2.7}%
@@ -39,7 +39,7 @@
 \contentsline {subsection}{\numberline {1.3.5}Approccio diagnostico}{12}{subsection.1.3.5}%
 \contentsline {subsection}{\numberline {1.3.6}Anatomia patologica}{13}{subsection.1.3.6}%
 \contentsline {subsection}{\numberline {1.3.7}Imaging}{13}{subsection.1.3.7}%
-\contentsline {subsubsection}{RM}{13}{subsubsection*.12}%
+\contentsline {subsubsection}{RM}{13}{subsubsection*.13}%
 \contentsline {subsection}{\numberline {1.3.8}Trattamento e prognosi}{13}{subsection.1.3.8}%
 \contentsline {subsection}{\numberline {1.3.9}Checklist di refertazione}{13}{subsection.1.3.9}%
 \contentsline {subsection}{\numberline {1.3.10}Bibliografia}{13}{subsection.1.3.10}%
@@ -64,24 +64,24 @@
 \contentsline {subsection}{\numberline {2.1.5}Approccio diagnostico}{18}{subsection.2.1.5}%
 \contentsline {subsection}{\numberline {2.1.6}Anatomia patologica}{18}{subsection.2.1.6}%
 \contentsline {subsection}{\numberline {2.1.7}Imaging}{18}{subsection.2.1.7}%
-\contentsline {subsubsection}{TC}{18}{subsubsection*.14}%
-\contentsline {subsubsection}{RM}{18}{subsubsection*.15}%
-\contentsline {paragraph}{Pattern di danno}{18}{paragraph*.16}%
-\contentsline {paragraph}{DWI}{19}{paragraph*.17}%
-\contentsline {paragraph}{SWI}{20}{paragraph*.18}%
-\contentsline {paragraph}{Spettroscopia}{20}{paragraph*.19}%
-\contentsline {paragraph}{DTI}{21}{paragraph*.20}%
-\contentsline {subsubsection}{Ecografia}{22}{subsubsection*.21}%
+\contentsline {subsubsection}{TC}{18}{subsubsection*.15}%
+\contentsline {subsubsection}{RM}{18}{subsubsection*.16}%
+\contentsline {paragraph}{Pattern di danno}{18}{paragraph*.17}%
+\contentsline {paragraph}{DWI}{19}{paragraph*.18}%
+\contentsline {paragraph}{SWI}{20}{paragraph*.19}%
+\contentsline {paragraph}{Spettroscopia}{20}{paragraph*.20}%
+\contentsline {paragraph}{DTI}{21}{paragraph*.21}%
+\contentsline {subsubsection}{Ecografia}{22}{subsubsection*.22}%
 \contentsline {subsection}{\numberline {2.1.8}Trattamento e prognosi}{23}{subsection.2.1.8}%
-\contentsline {subsubsection}{Sequele neurologiche}{23}{subsubsection*.22}%
-\contentsline {paragraph}{Leucomalacia periventricolare}{23}{paragraph*.23}%
-\contentsline {paragraph}{Altre sequele}{24}{paragraph*.24}%
+\contentsline {subsubsection}{Sequele neurologiche}{23}{subsubsection*.23}%
+\contentsline {paragraph}{Leucomalacia periventricolare}{23}{paragraph*.24}%
+\contentsline {paragraph}{Altre sequele}{24}{paragraph*.25}%
 \contentsline {subsection}{\numberline {2.1.9}Checklist di refertazione}{24}{subsection.2.1.9}%
 \contentsline {subsection}{\numberline {2.1.10}Bibliografia}{24}{subsection.2.1.10}%
 \partbegin 
 \ttl@change@i {\@ne }{chapter}{2.5pc}{\addvspace {15pt}}{\begin {tikzpicture} \pgftext {\LArge \bfseries \bfseries \color {black}\hspace {-1cm} Appendice\ \thecontentslabel {\color {white}.}\hspace {.5cm} } \end {tikzpicture}\Large }{}{\color {black}\titlerule \; \;\Large \bfseries Pagina \thecontentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
 \contentsline {chapter}{\numberline {A}Titolo}{27}{appendix.alph1.Alph1}%
-\contentsline {part}{Bibliografia}{29}{appendix*.26}%
-\contentsline {part}{Indice analitico}{30}{appendix*.27}%
+\contentsline {part}{Bibliografia}{29}{appendix*.27}%
+\contentsline {part}{Indice analitico}{30}{appendix*.28}%
 \contentsfinish 
