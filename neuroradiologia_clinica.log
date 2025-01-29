@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  28 JAN 2025 23:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  29 JAN 2025 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2361,11 +2361,6 @@ Underfull \hbox (badness 1337) in paragraph at lines 50--51
  []
 
 [7]
-
-LaTeX Warning: Reference `mdf@pagelabel-2' on page 8 undefined on input line 54
-.
-
-
 Underfull \vbox (badness 2503) has occurred while \output is active []
 
 
@@ -2969,13 +2964,6 @@ Overfull \vbox (62.5pt too high) has occurred while \output is active []
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
 (rerunfilecheck)             Checksum: 620B6FB2E1480E9A0D2BC085AE97AC8F;1766.
@@ -3003,7 +2991,7 @@ cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive
 /2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2024/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2024/t
 exmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on neuroradiologia_clinica.pdf (39 pages, 573716 bytes).
+Output written on neuroradiologia_clinica.pdf (39 pages, 573876 bytes).
 PDF statistics:
  493 PDF objects out of 1000 (max. 8388607)
  377 compressed objects within 4 object streams
