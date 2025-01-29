@@ -1,15 +1,23 @@
-\documentclass[10pt, twoside, twocolumn, openright]{book}
+\documentclass[11pt, twoside, twocolumn, openright]{book}
     \usepackage[italian]{babel}
+    \usepackage[sfdefault]{roboto}
     \usepackage[utf8]{inputenc}
     \usepackage[T1]{fontenc}
 %%%%% Modifiche mie
 \usepackage{minitoc}
+\setcounter{minitocdepth}{1}
+\renewcommand{\mtctitle}{Contenuto}
 \usepackage{graphicx}
 \usepackage{enumitem} % Per personalizzare gli elenchi
 \usepackage{amssymb}  % Per i simboli delle checkbox
 \usepackage{filemod} % Modifiche file
 \mtcsetoffset{minitoc}{-2.0em}
 \setlength{\mtcindent}{-1.0em}
+\renewcommand{\mtifont}{\large\sffamily}
+\renewcommand{\mtcfont}{\small\sffamily}
+\renewcommand{\mtcSfont}{\small\sffamily}
+\renewcommand{\mtcSSfont}{\small\sffamily}
+\renewcommand{\mtcSSSfont}{\small\sffamily}
 \def\tightlist{}
 %%%%% Pacchetti
 \usepackage{FileAusiliari/Layout}			% Contiene i pacchetti e le impostazioni per il layout

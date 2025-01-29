@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  28 JAN 2025 20:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  28 JAN 2025 23:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count188
 \c@chapter=\count189
@@ -48,13 +48,67 @@ Package babel Info: Importing font and identification data for italian
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count268
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
+(/usr/local/texlive/2024/texmf-dist/tex/latex/roboto/roboto.sty
+Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX en
+gines.
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count269
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+Roboto-LF on input l
+ine 112.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/roboto/T1Roboto-LF.fd
+File: T1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-LF.
+)
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 112.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 112.
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/minitoc/minitoc.sty
 Package: minitoc 2018/07/12 v62 Package minitoc
@@ -73,7 +127,7 @@ Package minitoc Info: I0023
 (minitoc)             part level macros available.
 Package minitoc Info: I0003
 (minitoc)             chapter level macros available.
-\mtc@toks=\toks19
+\mtc@toks=\toks21
 \mtc@strutbox=\box51
 \mtc@hstrutbox=\box52
 Package minitoc Info: I0002
@@ -93,10 +147,10 @@ Package minitoc Info: I0031
 
 \openout3 = `neuroradiologia_clinica.mtc0'.
 
-\c@mtc=\count269
-\c@minitocdepth=\count270
-\c@ptc=\count271
-\c@parttocdepth=\count272
+\c@mtc=\count270
+\c@minitocdepth=\count271
+\c@ptc=\count272
+\c@parttocdepth=\count273
 \ptcindent=\skip52
 Package minitoc Info: I0010
 (minitoc)             The english language is selected.
@@ -111,10 +165,6 @@ File: english.mld 2006/01/13
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
-)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
@@ -134,19 +184,20 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks22
 \labelindent=\skip53
 \enit@outerparindent=\dimen144
-\enit@toks=\toks21
+\enit@toks=\toks23
 \enit@inbox=\box53
-\enit@count@id=\count273
-\enitdp@description=\count274
+\enit@count@id=\count274
+\enitdp@description=\count275
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks22
+\@emptytoks=\toks24
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -162,7 +213,7 @@ Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
 ))
 Package minitoc Info: I0052
 (minitoc)             \mtcsetoffset redefines 
-(minitoc)             "mtcoffset" as "-2.0em" on input line 11.
+(minitoc)             "mtcoffset" as "-2.0em" on input line 14.
 
 (./FileAusiliari/Layout.sty
 (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
@@ -170,13 +221,10 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-))
-\Gm@cnth=\count275
-\Gm@cntv=\count276
-\c@Gm@tempcnt=\count277
+)
+\Gm@cnth=\count276
+\Gm@cntv=\count277
+\c@Gm@tempcnt=\count278
 \Gm@bindingoffset=\dimen145
 \Gm@wd@mp=\dimen146
 \Gm@odd@mp=\dimen147
@@ -185,7 +233,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen150
 \Gm@layouthoffset=\dimen151
 \Gm@layoutvoffset=\dimen152
-\Gm@dimlist=\toks23
+\Gm@dimlist=\toks25
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
@@ -212,31 +260,31 @@ Package: titletoc 2023/10/27 v2.16 TOC entries
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count278
-\c@@ppsavesec=\count279
-\c@@ppsaveapp=\count280
+\c@@pps=\count279
+\c@@ppsavesec=\count280
+\c@@ppsaveapp=\count281
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/generic/soul/soul.sty
 Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/soul/soul-ori.sty
 Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
-\SOUL@word=\toks24
-\SOUL@lasttoken=\toks25
-\SOUL@syllable=\toks26
-\SOUL@cmds=\toks27
-\SOUL@buffer=\toks28
-\SOUL@token=\toks29
+\SOUL@word=\toks26
+\SOUL@lasttoken=\toks27
+\SOUL@syllable=\toks28
+\SOUL@cmds=\toks29
+\SOUL@buffer=\toks30
+\SOUL@token=\toks31
 \SOUL@syllgoal=\dimen154
 \SOUL@syllwidth=\dimen155
 \SOUL@charkern=\dimen156
 \SOUL@hyphkern=\dimen157
 \SOUL@dimen=\dimen158
 \SOUL@dimeni=\dimen159
-\SOUL@minus=\count281
-\SOUL@comma=\count282
-\SOUL@apo=\count283
-\SOUL@grave=\count284
+\SOUL@minus=\count282
+\SOUL@comma=\count283
+\SOUL@apo=\count284
+\SOUL@grave=\count285
 \SOUL@spaceskip=\skip66
 \SOUL@ttwidth=\dimen160
 \SOUL@uldp=\dimen161
@@ -256,7 +304,7 @@ Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks30
+\pgfutil@everybye=\toks32
 \pgfutil@tempdima=\dimen163
 \pgfutil@tempdimb=\dimen164
 )
@@ -273,12 +321,12 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks31
-\pgfkeys@temptoks=\toks32
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
 tered.code.tex
-\pgfkeys@tmptoks=\toks33
+\pgfkeys@tmptoks=\toks35
 ))
 \pgf@x=\dimen165
 \pgf@y=\dimen166
@@ -292,14 +340,14 @@ tered.code.tex
 \pgf@yd=\dimen174
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count285
-\c@pgf@countb=\count286
-\c@pgf@countc=\count287
-\c@pgf@countd=\count288
-\t@pgf@toka=\toks34
-\t@pgf@tokb=\toks35
-\t@pgf@tokc=\toks36
-\pgf@sys@id@count=\count289
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
+\pgf@sys@id@count=\count290
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
@@ -317,8 +365,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count290
-\pgfsyssoftpath@bigbuffer@items=\count291
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -348,11 +396,11 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen175
-\pgfmath@count=\count292
+\pgfmath@count=\count293
 \pgfmath@box=\box55
-\pgfmath@toks=\toks37
-\pgfmath@stack@operand=\toks38
-\pgfmath@stack@operation=\toks39
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex)
@@ -374,7 +422,7 @@ code.tex)
 erarithmetics.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count293
+\c@pgfmathroundto@lastzeros=\count294
 )) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
@@ -412,7 +460,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box56
 \pgf@hbox=\box57
 \pgf@layerbox@main=\box58
-\pgf@picture@serial@count=\count294
+\pgf@picture@serial@count=\count295
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
@@ -447,8 +495,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 e.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen199
-\pgf@sys@shading@range@num=\count295
-\pgf@shadingcount=\count296
+\pgf@sys@shading@range@num=\count296
+\pgf@shadingcount=\count297
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -495,8 +543,8 @@ Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks40
-\verbatim@line=\toks41
+\every@verbatim=\toks42
+\verbatim@line=\toks43
 \verbatim@in@stream=\read4
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/environ/environ.sty
@@ -505,15 +553,15 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (/usr/local/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks42
+\@envbody=\toks44
 )
 \tcb@titlebox=\box61
 \tcb@upperbox=\box62
 \tcb@lowerbox=\box63
 \tcb@phantombox=\box64
-\c@tcbbreakpart=\count297
-\c@tcblayer=\count298
-\c@tcolorbox@number=\count299
+\c@tcbbreakpart=\count298
+\c@tcblayer=\count299
+\c@tcolorbox@number=\count300
 \l__tcobox_tmpa_box=\box65
 \l__tcobox_tmpa_dim=\dimen258
 \tcb@temp=\box66
@@ -533,8 +581,8 @@ Library (tcolorbox): 'tcbskins.code.tex' version '6.2.0'
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen259
 \pgffor@skip=\dimen260
-\pgffor@stack=\toks43
-\pgffor@toks=\toks44
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
@@ -543,7 +591,7 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count300
+\pgf@plot@mark@count=\count301
 \pgfplotmarksize=\dimen261
 )
 \tikz@lastx=\dimen262
@@ -558,19 +606,19 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box71
 \tikz@tempbox=\box72
 \tikz@tempbox@bg=\box73
-\tikztreelevel=\count301
-\tikznumberofchildren=\count302
-\tikznumberofcurrentchild=\count303
-\tikz@fig@count=\count304
+\tikztreelevel=\count302
+\tikznumberofchildren=\count303
+\tikznumberofcurrentchild=\count304
+\tikz@fig@count=\count305
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count305
-\pgfmatrixcurrentcolumn=\count306
-\pgf@matrix@numberofcolumns=\count307
+\pgfmatrixcurrentrow=\count306
+\pgfmatrixcurrentcolumn=\count307
+\pgf@matrix@numberofcolumns=\count308
 )
-\tikz@expandcount=\count308
+\tikz@expandcount=\count309
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -607,22 +655,11 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 Package: cwpuzzle 2022/09/13 1.11 for typesetting crossword puzzles and more. 
 Package: cwpuzzle 2022/09/13gene
 \PuzzleUnitlength=\dimen270
-\Puzzle@X=\count309
-\Puzzle@Y=\count310
+\Puzzle@X=\count310
+\Puzzle@Y=\count311
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks45
-\XKV@tempa@toks=\toks46
-)
-\XKV@depth=\count311
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
 (/usr/local/texlive/2024/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
@@ -1693,13 +1730,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 (/usr/local/texlive/2024/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-))
 \neuroradiologia_clinica@idxfile=\write5
 \openout5 = `neuroradiologia_clinica.idx'.
 
@@ -1821,7 +1852,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 15.
 )
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM neuroradiologia_clinica.toc on in
-put line 27.
+put line 35.
 \openout3 = `neuroradiologia_clinica.mtc'.
 
 Package minitoc Info: I0033
@@ -1840,35 +1871,31 @@ Package minitoc Info: I0033
 (minitoc)             Writing neuroradiologia_clinica.mtc3.
 \openout3 = `neuroradiologia_clinica.mtc3'.
 
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 27
-.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-(./neuroradiologia_clinica.aux)
+ (./neuroradiologia_clinica.aux)
 \openout1 = `neuroradiologia_clinica.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Info: Redefining \it@ocap on input line 27.
-LaTeX Info: Redefining \it@ccap on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Info: Redefining \it@ocap on input line 35.
+LaTeX Info: Redefining \it@ccap on input line 35.
+\c@mv@tabular=\count416
+\c@mv@boldtabular=\count417
 Package minitoc(hints) Info: I0049
 (minitoc(hints))             ==> You requested the hints option. 
 (minitoc(hints))             Some hints are eventually given below.
@@ -1911,16 +1938,16 @@ Package minitoc(hints) Warning: W0023
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count416
+\scratchcounter=\count418
 \scratchdimen=\dimen383
 \scratchbox=\box105
-\nofMPsegments=\count417
-\nofMParguments=\count418
+\nofMPsegments=\count419
+\nofMParguments=\count420
 \everyMPshowfont=\toks76
-\MPscratchCnt=\count419
+\MPscratchCnt=\count421
 \MPscratchDim=\dimen384
-\MPnumerator=\count420
-\makeMPintoPDFobject=\count421
+\MPnumerator=\count422
+\makeMPintoPDFobject=\count423
 \everyMPtoPDFconversion=\toks77
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1950,7 +1977,7 @@ e
 * \topmargin=-32.1381pt
 * \headheight=21.0pt
 * \headsep=10.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=20.0pt
 * \marginparwidth=55.48277pt
 * \marginparsep=5.69046pt
@@ -1971,13 +1998,33 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 27.
+Package hyperref Info: Link coloring ON on input line 35.
 (./neuroradiologia_clinica.out) (./neuroradiologia_clinica.out)
 \@outlinefile=\write6
 \openout6 = `neuroradiologia_clinica.out'.
 
 
 (./FileAusiliari/Titolo.tex
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 26.0pt on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 26.0pt on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
+(Font)              `T1/Roboto-LF/regular/it' on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 14.4pt on input line 13.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@none' on input line 14.
@@ -1998,77 +2045,160 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]) [1
+]
+Overfull \vbox (21.15657pt too high) has occurred while \output is active []
+
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \hfil 
+l.14 \end{titlepage}
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/sl' aliased to
+(Font)              `T1/Roboto-LF/regular/sl' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/sl' in size <10.95> not av
+ailable
+(Font)              Font shape `T1/Roboto-LF/regular/it' tried instead on input
+ line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 14.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@none' on input line 14.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\c@page' on input line 14.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@none' on input line 14.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\c@page' on input line 14.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 \end{titlepage}
+                     [2{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updm
+ap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/roboto/rbto_b
+5rac7.enc}])
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 57.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 57.
+ [1
+
 
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
-9.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 5
+7.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(./neuroradiologia_clinica.toc)
+(./neuroradiologia_clinica.toc
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 4.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 17.28pt on input line 4.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 4.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 17.28pt on input line 4.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 4.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 4.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 6.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 15.5pt on input line 6.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 6.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 15.5pt on input line 6.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 7.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 10.0pt on input line 7.
+)
 \tf@toc=\write7
 \openout7 = `neuroradiologia_clinica.toc'.
 
  [2
 
-] (./FileAusiliari/Introduzione.tex) [3
+] (./FileAusiliari/Introduzione.tex
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 12.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 24.88pt on input line 12.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
+(Font)              `T1/Roboto-LF/regular/it' on input line 23.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 23.
+) [3
 
 
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
-0.
+8.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
-0.
+8.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-90.
+98.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-90.
+98.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 90.
+(Font)              <10> on input line 98.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 90.
+(Font)              <7> on input line 98.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 90.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
+(Font)              <5> on input line 98.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 98.
 
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
 
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 90
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 98
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+zavm on input line 90
+LaTeX Font Info:    Trying to load font information for U+zavm on input line 98
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/arev/uzavm.fd
@@ -2094,7 +2224,7 @@ File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 * \topmargin=27.31465pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=0.0pt
 * \marginparwidth=0.0pt
 * \marginparsep=0.0pt
@@ -2114,18 +2244,23 @@ File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 
 
 ]
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 99.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 24.88pt on input line 99.
+
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
-(fancyhdr)                Make it at least 12.84949pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.84949pt}.
+(fancyhdr)                Make it at least 13.84949pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.84949pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-12.84949pt}.
+(fancyhdr)                \addtolength{\topmargin}{-13.84949pt}.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 11.55pt, for example:
-(fancyhdr)                \setlength{\footskip}{11.55pt}.
+(fancyhdr)                Make it at least 12.73pt, for example:
+(fancyhdr)                \setlength{\footskip}{12.73pt}.
 
 [3
 
@@ -2143,213 +2278,30 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (./Capitoli/degenerative/degenerative.tex)
 (./Capitoli/degenerative/disturbi_movimento.tex
 Capitolo 1.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 1.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
 \openout3 = `neuroradiologia_clinica.mtc'.
 
 \openout3 = `neuroradiologia_clinica.mtc'.
 
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 3.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 3.
 (./neuroradiologia_clinica.mtc1
-Overfull \hbox (4.625pt too wide) detected at line 2
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 3
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 4
- [][][]\T1/lmr/m/n/9 5[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 6
- [][][]\T1/lmr/m/n/9 6[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 7
- [][][]\T1/lmr/m/n/9 7[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 8
- [][][]\T1/lmr/m/n/9 7[][]
- []
-
-
-Overfull \hbox (4.625pt too wide) detected at line 9
- [][][]\T1/lmr/m/n/9 8[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 14
- [][][]\T1/lmr/m/n/9 10[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 15
- [][][]\T1/lmr/m/n/9 10[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 16
- [][][]\T1/lmr/m/n/9 10[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 18
- [][][]\T1/lmr/m/n/9 10[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 19
- [][][]\T1/lmr/m/n/9 10[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 20
- [][][]\T1/lmr/m/n/9 10[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 21
- [][][]\T1/lmr/m/n/9 10[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 22
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 23
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 24
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 25
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 26
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 27
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 29
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 30
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 31
- [][][]\T1/lmr/m/n/9 11[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 32
- [][][]\T1/lmr/m/n/9 12[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 33
- [][][]\T1/lmr/m/n/9 12[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 34
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 35
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 37
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 38
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 39
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 41
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 42
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 43
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 44
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 45
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 46
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 47
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 48
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 49
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 50
- [][][]\T1/lmr/m/n/9 13[][]
- []
-
-) (./Capitoli/degenerative/disturbi_movimento/parkinson.tex
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 1.
+)
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <13> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 3.
+
+(./Capitoli/degenerative/disturbi_movimento/parkinson.tex
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <11> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 3.
 <FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illustratio
-n.jpg, id=245, 1053.9375pt x 837.1275pt>
+n.jpg, id=164, 1053.9375pt x 837.1275pt>
 File: FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illust
 ration.jpg Graphic file (type jpg)
 <use FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illustr
@@ -2362,22 +2314,30 @@ sons-disease-illustration.jpg  used on input line 14.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 20.
+(Font)              <10.95> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 20.
-[5
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 20.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <9> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 24.
+
+Underfull \vbox (badness 3557) has occurred while \output is active []
+
+ [5
 
 
 
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Underfull \vbox (badness 5592) has occurred while \output is active []
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
+xlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \vbox (badness 1803) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./FileAusiliari/Immagini/degenerative/dopamine-in-parkinsons-disease-illus
 tration.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1342) has occurred while \output is active []
 
 Package mdframed Info: mdframed works in twoside mode on input line 44.
 Package mdframed Info: mdframed detected package amsthm 
@@ -2386,24 +2346,39 @@ Package mdframed Info: mdframed detected package amsthm
 Package hyperref Info: bookmark level for unknown Oss defaults to 0 on input li
 ne 44.
 
-Underfull \hbox (badness 2173) in paragraph at lines 47--48
-   [] \T1/lmr/m/n/10 Espe-rien-ze non mo-to-rie
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+   [] \T1/Roboto-LF/regular/n/10.95 Espe-rien-ze mo-to-rie
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 48--49
-   [] \T1/lmr/m/n/10 Espe-rien-ze mo-to-rie del-
+Underfull \hbox (badness 1460) in paragraph at lines 48--49
+\T1/Roboto-LF/regular/n/10.95 del-la vi-ta quo-ti-dia-na. Que-sta se-zio-ne
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 50--51
-   [] \T1/lmr/m/n/10 Com-pli-can-ze del-la te-ra-
+Underfull \hbox (badness 1337) in paragraph at lines 50--51
+   [] \T1/Roboto-LF/regular/n/10.95 Com-pli-can-ze del-la te-
  []
 
 [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg, id=307, 1
+LaTeX Warning: Reference `mdf@pagelabel-2' on page 8 undefined on input line 54
+.
+
+
+Underfull \vbox (badness 2503) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 68--71
+\T1/Roboto-LF/regular/n/10.95 in-clu-se atro-fia mul-ti-si-ste-mi-ca e pa-ra-li
+-si so-
+ []
+
+
+Underfull \vbox (badness 7468) has occurred while \output is active []
+
+ [8]
+<FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg, id=200, 1
 81.27927pt x 109.49268pt>
 File: FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg Graph
 ic file (type jpg)
@@ -2415,8 +2390,10 @@ Package pdftex.def Info: FileAusiliari/Immagini/degenerative/cureus-0014-000000
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8]
-<FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg, id=314, 533.74406
+
+Underfull \vbox (badness 4569) has occurred while \output is active []
+
+<FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg, id=201, 533.74406
 pt x 208.52907pt>
 File: FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg Graphic file 
 (type jpg)
@@ -2429,29 +2406,54 @@ Package pdftex.def Info: FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g00
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+Underfull \hbox (badness 5924) in paragraph at lines 89--91
+[]\T1/Roboto-LF/regular/n/10.95 La dia-gno-si dif-fe-ren-zia-le del-le sin-dro-
+mi
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 93--96
+\T1/Roboto-LF/regular/n/10.95 fluorodeossiglucosio (FDG-PET) do-cu-men-ta
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 93--96
+\T1/Roboto-LF/regular/n/10.95 re e pon-ti-no as-so-cia-to a ipo-me-ta-bo-li-smo
+
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 93--96
+\T1/Roboto-LF/regular/n/10.95 do ac-cu-ra-ta dif-fe-ren-zia-zio-ne dal-le sin-d
+ro-mi
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \vbox (badness 1205) has occurred while \output is active []
-
- [9 <./FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg>]
-Underfull \hbox (badness 6758) in paragraph at lines 117--117
-[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
- []
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 116.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 5.6pt on input line 116.
 
 
 LaTeX Warning: Marginpar on page 10 moved.
 
 ) (./Capitoli/degenerative/disturbi_movimento/atrofia_multisistemica.tex
-Underfull \vbox (badness 2384) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10 <./FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg>]
-Underfull \hbox (badness 6758) in paragraph at lines 31--31
-[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
- []
+ [10 <./FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: Marginpar on page 11 moved.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./FileAusiliari/Immagini/degenerative/BRB3-11-e02202-g002.jpg>]
+
+LaTeX Warning: Marginpar on page 12 moved.
 
 )
 (./Capitoli/degenerative/disturbi_movimento/paralisi_sopranucleare_progressiva.
@@ -2469,26 +2471,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.29948pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.29948pt}.
+(fancyhdr)                Make it at least 23.58946pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.58946pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-0.29948pt}.
+(fancyhdr)                \addtolength{\topmargin}{-2.58946pt}.
 
-[11]
+[12]
+Underfull \hbox (badness 1436) in paragraph at lines 33--34
+\T1/Roboto-LF/regular/n/10 com-bi-na-zio-ne con la di-mo-stra-zio-ne del-la
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Package fancyhdr Warning: \headheight is too small (21.0pt): 
-(fancyhdr)                Make it at least 21.29948pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.29948pt}.
+(fancyhdr)                Make it at least 23.58946pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.58946pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-0.29948pt}.
+(fancyhdr)                \addtolength{\topmargin}{-2.58946pt}.
 
-[12{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
-<FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g001.jpg, id=342, 147.6372
+[13{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+<FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g001.jpg, id=249, 147.6372
 8pt x 44.60092pt>
 File: FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g001.jpg Graphic file
  (type jpg)
@@ -2501,28 +2508,24 @@ Package pdftex.def Info: FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g0
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1596) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 67.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 6.0pt on input line 67.
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 70--70
-[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
- []
-
-
-LaTeX Warning: Marginpar on page 13 moved.
+LaTeX Warning: Marginpar on page 14 moved.
 
 ))) (./Capitoli/metaboliche/main.tex) (./Capitoli/rachide/main.tex)
 (./Capitoli/periferico/main.tex) (./Capitoli/orbite/main.tex)
 (./Capitoli/chirurgiche/main.tex) (./Capitoli/rocche/main.tex)
 (./Capitoli/sella/main.tex) (./template.tex
-Underfull \hbox (badness 6758) in paragraph at lines 28--28
-[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
- []
 
+LaTeX Warning: Marginpar on page 14 moved.
 
-LaTeX Warning: Marginpar on page 13 moved.
-
-) [13] [14 <./FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g001.jpg>]
+) [14] [15 <./FileAusiliari/Immagini/degenerative/tre-02-56-352-1-g001.jpg>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2540,7 +2543,7 @@ LaTeX Warning: Marginpar on page 13 moved.
 * \topmargin=27.31465pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=0.0pt
 * \marginparwidth=0.0pt
 * \marginparsep=0.0pt
@@ -2556,11 +2559,27 @@ LaTeX Warning: Marginpar on page 13 moved.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-[15
+[16
 
 
 
-] [16] (./Capitoli/pediatrica/anatomia/main.tex)
+]
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 13.84949pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.84949pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.84949pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.73pt, for example:
+(fancyhdr)                \setlength{\footskip}{12.73pt}.
+
+[17
+
+] [18] (./Capitoli/pediatrica/anatomia/main.tex)
 (./Capitoli/pediatrica/vascolare/main.tex
 Capitolo 2.
 \openout3 = `neuroradiologia_clinica.mtc'.
@@ -2568,136 +2587,292 @@ Capitolo 2.
 \openout3 = `neuroradiologia_clinica.mtc'.
 
 (./neuroradiologia_clinica.mtc2
-Overfull \hbox (9.25pt too wide) detected at line 2
- [][][]\T1/lmr/m/n/9 17[][]
- []
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+.
 
-
-Overfull \hbox (9.25pt too wide) detected at line 3
- [][][]\T1/lmr/m/n/9 17[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 4
- [][][]\T1/lmr/m/n/9 17[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 5
- [][][]\T1/lmr/m/n/9 17[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 6
- [][][]\T1/lmr/m/n/9 18[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 7
- [][][]\T1/lmr/m/n/9 18[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 8
- [][][]\T1/lmr/m/n/9 18[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 17
- [][][]\T1/lmr/m/n/9 23[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 21
- [][][]\T1/lmr/m/n/9 24[][]
- []
-
-
-Overfull \hbox (9.25pt too wide) detected at line 22
- [][][]\T1/lmr/m/n/9 24[][]
- []
-
-) (./Capitoli/pediatrica/vascolare/ipossico-ischemico.tex
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(./Capitoli/pediatrica/vascolare/ipossico-ischemico.tex
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 13.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 13.
- [17
+(Font)              <9> on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 7.0pt on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 13.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 5.0pt on input line 13.
+
+Underfull \hbox (badness 3623) in paragraph at lines 13--15
+[]\T1/Roboto-LF/bold/n/10 Fattori an-te-par-tum: \T1/Roboto-LF/regular/n/10 in-
+clu-do-no con-di-zio-ni
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 15--17
+\T1/Roboto-LF/regular/n/10 do-ne om-be-li-ca-le stret-to at-tor-no al col-lo e
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 17--18
+\T1/Roboto-LF/regular/n/10 can-ze che si ma-ni-fe-sta-no do-po la na-sci-
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 25--27
+[]\T1/Roboto-LF/bold/n/10 Riduzione del flus-so san-gui-gno ce-re-bra-le
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 31--32
+[]\T1/Roboto-LF/bold/n/10 Edema ci-to-tos-si-co: \T1/Roboto-LF/regular/n/10 cau
+-sa-to dal-lo stress
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 31--32
+\T1/Roboto-LF/regular/n/10 osmo-ti-co, con con-se-guen-te ri-di-stri-bu-zio-ne
+ []
+
+[19
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-Underfull \hbox (badness 4479) in paragraph at lines 92--94
-[]\T1/lmr/bx/n/9 Gravità del-l'in-sul-to: \T1/lmr/m/n/9 epi-so-di di ipossia-
- []
-
-[19]
-Underfull \hbox (badness 1558) in paragraph at lines 144--145
-[]\T1/lmr/bx/n/9 Coinvolgimento ce-re-bel-la-re: \T1/lmr/m/n/9 Le se-quen-ze
- []
-
-[20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 171--173
-[]\T1/lmr/m/n/9 La MRS ri-chie-de più tem-po ri-spet-to
+Underfull \hbox (badness 7433) in paragraph at lines 41--46
+\T1/Roboto-LF/regular/n/10 La pre-sen-ta-zio-ne cli-ni-ca del dan-no ipossico-
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 173--175
-[]\T1/lmr/m/n/9 La MRS può stu-dia-re so-lo re-gio-ni di
+Underfull \vbox (badness 1342) has occurred while \output is active []
+
+ [20]
+Underfull \hbox (badness 1371) in paragraph at lines 63--64
+[] []\T1/lmss/m/sl/10 Pat-tern di dan-no[] \T1/Roboto-LF/regular/n/10 I pat-ter
+n di dan-no ipossico-
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 175--177
-[]\T1/lmr/m/n/9 Le al-te-ra-zio-ni dei me-ta-bo-li-ti pos-so-no
+Underfull \hbox (badness 1231) in paragraph at lines 70--72
+[]\T1/Roboto-LF/bold/n/10 Ipoperfusione lieve-moderata\T1/Roboto-LF/regular/n/1
+0 : il dan-no si
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 175--177
-\T1/lmr/m/n/9 evol-ve-re ra-pi-da-men-te, per que-sto so-no
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+\T1/Roboto-LF/regular/n/10 ma-ni-fe-sta prin-ci-pal-men-te nel-la so-stan-za
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+\T1/Roboto-LF/regular/n/10 al-la va-sco-la-riz-za-zio-ne ven-tri-co-lo-pe-ta de
+l
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 70--72
+\T1/Roboto-LF/regular/n/10 cer-vel-lo im-ma-tu-ro, in cui i va-si san-gui-gni
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+[]\T1/Roboto-LF/bold/n/10 Gravità del-l'in-sul-to: \T1/Roboto-LF/regular/n/10 e
+pi-so-di di ipossia-
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 92--94
+\T1/Roboto-LF/regular/n/10 gra-ve può coin-vol-ge-re il ta-la-mo, il tron-co
  []
 
 [21]
-Underfull \hbox (badness 1496) in paragraph at lines 226--227
-[]\T1/lmr/bx/n/9 ABA: \T1/lmr/m/n/9 Uti-liz-za atlan-ti ce-re-bra-li per la
+Underfull \hbox (badness 1831) in paragraph at lines 106--108
+[]\T1/Roboto-LF/bold/n/10 Tempistica: \T1/Roboto-LF/regular/n/10 La pseu-do-nor
+-ma-liz-za-zio-ne si
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 106--108
+\T1/Roboto-LF/bold/n/10 do-po l'e-ven-to ipossico-ischemico\T1/Roboto-LF/regula
+r/n/10 . Ini-zial-
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 106--108
+\T1/Roboto-LF/regular/n/10 stan-za di cir-ca una set-ti-ma-na, que-sto se-
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 114--115
+[]\T1/Roboto-LF/bold/n/10 Correlazione con al-tri pa-ra-me-tri: \T1/Roboto-LF/r
+egular/n/10 L'a-na-li-si
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 119--121
+\T1/Roboto-LF/regular/n/10 do di tem-po più lun-go, in-di-can-do la
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 121--122
+\T1/Roboto-LF/regular/n/10 le pri-me 3 set-ti-ma-ne di vi-ta, men-tre
  []
 
 [22]
+Underfull \hbox (badness 1755) in paragraph at lines 144--145
+[]\T1/Roboto-LF/bold/n/10 Coinvolgimento ce-re-bel-la-re: \T1/Roboto-LF/regular
+/n/10 Le se-quen-ze
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 144--145
+\T1/Roboto-LF/regular/n/10 SWI so-no uti-li nel-l'i-den-ti-fi-ca-re il coin-vol
+-gi-
+ []
+
+[23]
+Underfull \hbox (badness 1331) in paragraph at lines 160--162
+\T1/Roboto-LF/regular/n/10 può iden-ti-fi-ca-re an-che al-tri me-ta-bo-li-ti ch
+e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+\T1/Roboto-LF/regular/n/10 cam-bia-no a se-gui-to di dan-no ipossico-
+ []
+
+
+Underfull \hbox (badness 6808) in paragraph at lines 160--162
+\T1/Roboto-LF/regular/n/10 ischemico co-me glutammina-glutammato,
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 160--162
+\T1/Roboto-LF/regular/n/10 aspartato (NAA), un mar-ker di in-te-gri-tà
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 171--173
+[]\T1/Roboto-LF/regular/n/10 La MRS ri-chie-de più tem-po ri-spet-to
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 173--175
+[]\T1/Roboto-LF/regular/n/10 La MRS può stu-dia-re so-lo re-gio-ni di
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \vbox (badness 1077) has occurred while \output is active []
+Underfull \hbox (badness 1043) in paragraph at lines 181--182
+\T1/Roboto-LF/regular/n/10 dan-no ipossico-ischemico (HIE) nei neo-na-ti. Il
+ []
 
- [23]
-Underfull \hbox (badness 2529) in paragraph at lines 303--305
-[]\T1/lmr/bx/n/9 Ecografia: \T1/lmr/m/n/9 L'e-co-gra-fia può ri-le-va-re ini-zi
-al-
+[24]
+Underfull \hbox (badness 1383) in paragraph at lines 210--211
+[]\T1/Roboto-LF/regular/n/10 Riduzioni di MD so-no sta-te os-ser-va-
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 340--342
-\T1/lmr/m/n/5 8. Chao CP, Za-le-ski CG, Pat-ton AC. Neo-na-tal Hypoxic-Ischemic
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 226--227
+[]\T1/Roboto-LF/bold/n/10 ABA: \T1/Roboto-LF/regular/n/10 Uti-liz-za atlan-ti c
+e-re-bra-li per la
+ []
+
+[25]
+Underfull \hbox (badness 1178) in paragraph at lines 243--245
+\T1/Roboto-LF/bold/n/10 no \T1/Roboto-LF/regular/n/10 in ca-so di HIE. Que-sto 
+è fon-da-men-ta-
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 243--245
+\T1/Roboto-LF/regular/n/10 pre-vi-sio-ne de-gli esi-ti neu-roe-vo-lu-ti-vi. L'U
+S
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 243--245
+\T1/Roboto-LF/regular/n/10 può di-stin-gue-re tra di-ver-si ti-pi di le-sio-ni,
 
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 340--342
-\T1/lmr/m/n/5 En-ce-pha-lo-pa-thy: Mul-ti-mo-da-li-ty Ima-ging Fin-dings. Ra-di
-o-Gra-phics
+Underfull \hbox (badness 3492) in paragraph at lines 247--249
+\T1/Roboto-LF/regular/n/10 lu-ta-re le \T1/Roboto-LF/bold/n/10 di-na-mi-che va-
+sco-la-ri ce-re-bra-li \T1/Roboto-LF/regular/n/10 e
  []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 346--346
-[]\T1/lmr/m/n/5.6 Nota a mar-gi-ne
+Underfull \hbox (badness 1173) in paragraph at lines 254--256
+\T1/Roboto-LF/regular/n/10 Può es-se-re pre-sen-ta ede-ma ce-re-bra-
+ []
+
+[26]
+Underfull \hbox (badness 1721) in paragraph at lines 275--277
+\T1/Roboto-LF/regular/n/10 ge-ren-do un ruo-lo del-l'i-po-va-sco-la-riz-za-zio-
+ne
  []
 
 
-LaTeX Warning: Marginpar on page 24 moved.
+Underfull \hbox (badness 10000) in paragraph at lines 277--279
+[]\T1/Roboto-LF/bold/n/10 Eventi ipossico-ischemici: \T1/Roboto-LF/regular/n/10
+ Gli even-ti
+ []
 
-)) (./Capitoli/pediatrica/metaboliche/main.tex) [24]
+
+Underfull \hbox (badness 1859) in paragraph at lines 277--279
+\T1/Roboto-LF/regular/n/10 ipossico-ischemici por-ta-no a una se-rie di
+ []
+
+
+Underfull \hbox (badness 3302) in paragraph at lines 277--279
+\T1/Roboto-LF/regular/n/10 even-ti a ca-sca-ta che con-tri-bui-sco-no al-lo
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 277--279
+\T1/Roboto-LF/regular/n/10 per-di-ta del-l'in-te-gri-tà ca-pil-la-re. La ri-per
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--279
+\T1/Roboto-LF/regular/n/10 fu-sio-ne ce-re-bra-le suc-ces-si-va al-l'e-ven-to
+ []
+
+
+Underfull \vbox (badness 1748) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 291--293
+\T1/Roboto-LF/regular/n/10 lup-pa-no \T1/Roboto-LF/bold/n/10 ci-sti pe-ri-ven-t
+ri-co-la-ri \T1/Roboto-LF/regular/n/10 tra le 3 e le
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 295--296
+\T1/Roboto-LF/regular/n/10 rat-te-riz-za-ta da \T1/Roboto-LF/bold/n/10 ven-tri-
+co-lo-me-ga-lia \T1/Roboto-LF/regular/n/10 con di-la-
+ []
+
+[27]
+
+LaTeX Warning: Marginpar on page 28 moved.
+
+)) (./Capitoli/pediatrica/metaboliche/main.tex) [28
+
+]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2715,7 +2890,7 @@ LaTeX Warning: Marginpar on page 24 moved.
 * \topmargin=27.31465pt
 * \headheight=0.0pt
 * \headsep=0.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=0.0pt
 * \marginparwidth=0.0pt
 * \marginparsep=0.0pt
@@ -2730,28 +2905,36 @@ LaTeX Warning: Marginpar on page 24 moved.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [25
+ [29
 
 
 
-] [26]
+] [30]
 (./Appendici/AppendiceA.tex
 Appendice A.
-) [27
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 1.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 6.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 1.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 1.
+) [31
 
 
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}
 
 ]
-(./neuroradiologia_clinica.bbl [28
+(./neuroradiologia_clinica.bbl [32
 
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 10.
 
-) [29
+) [33
 
 
 ]
@@ -2776,9 +2959,9 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                in the neuroradiologia_clinica.log file.
 
 
-Overfull \vbox (53.0pt too high) has occurred while \output is active []
+Overfull \vbox (62.5pt too high) has occurred while \output is active []
 
- [30
+ [34
 
 ]
 (./neuroradiologia_clinica.aux)
@@ -2786,39 +2969,44 @@ Overfull \vbox (53.0pt too high) has occurred while \output is active []
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `neuroradiologia_clinica.out' has not changed
 .
 (rerunfilecheck)             Checksum: 620B6FB2E1480E9A0D2BC085AE97AC8F;1766.
  ) 
 Here is how much of TeX's memory you used:
- 56214 strings out of 474116
- 1309550 string characters out of 5743682
- 2124001 words of memory out of 5000000
- 77144 multiletter control sequences out of 15000+600000
- 687854 words of font info for 115 fonts, out of 8000000 for 9000
+ 56831 strings out of 474116
+ 1324113 string characters out of 5743682
+ 2130176 words of memory out of 5000000
+ 77736 multiletter control sequences out of 15000+600000
+ 752163 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,14n,145p,2569b,1353s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
-e/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2024/texm
-f-dist/fonts/type1/public/lm/lmmi5.pfb></usr/local/texlive/2024/texmf-dist/font
-s/type1/public/lm/lmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
-lic/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr1
-2.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texliv
-e/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2024/texmf
--dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/font
-s/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
-blic/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/
-lmsso9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2
-024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texli
-ve/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb>
-Output written on neuroradiologia_clinica.pdf (34 pages, 744079 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pf
+b></usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.
+pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/local/texli
+ve/2024/texmf-dist/fonts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2024/tex
+mf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2024/texmf-dist/font
+s/type1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
+blic/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lm
+ssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso10.pf
+b></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive
+/2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2024/texmf
+-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2024/t
+exmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on neuroradiologia_clinica.pdf (39 pages, 573716 bytes).
 PDF statistics:
- 588 PDF objects out of 1000 (max. 8388607)
- 469 compressed objects within 5 object streams
- 123 named destinations out of 1000 (max. 500000)
+ 493 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
+ 127 named destinations out of 1000 (max. 500000)
  233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
