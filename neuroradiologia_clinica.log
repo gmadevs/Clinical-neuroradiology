@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  29 JAN 2025 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.9)  29 JAN 2025 16:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2438,9 +2438,7 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
 LaTeX Warning: Marginpar on page 10 moved.
 
 ) (./Capitoli/degenerative/disturbi_movimento/atrofia_multisistemica.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10 <./FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg>]
+[10 <./FileAusiliari/Immagini/degenerative/cureus-0014-00000021518-i02.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2590,48 +2588,48 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
 (./Capitoli/pediatrica/vascolare/ipossico-ischemico.tex
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 13.
+(Font)              `T1/Roboto-LF/regular/n' on input line 18.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 13.
+(Font)              scaled to size 9.0pt on input line 18.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 13.
+(Font)              <9> on input line 18.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 13.
+(Font)              `T1/Roboto-LF/regular/n' on input line 18.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 7.0pt on input line 13.
+(Font)              scaled to size 7.0pt on input line 18.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 13.
+(Font)              `T1/Roboto-LF/regular/n' on input line 18.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 5.0pt on input line 13.
+(Font)              scaled to size 5.0pt on input line 18.
 
-Underfull \hbox (badness 3623) in paragraph at lines 13--15
+Underfull \hbox (badness 3623) in paragraph at lines 18--20
 []\T1/Roboto-LF/bold/n/10 Fattori an-te-par-tum: \T1/Roboto-LF/regular/n/10 in-
 clu-do-no con-di-zio-ni
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 15--17
+Underfull \hbox (badness 1038) in paragraph at lines 20--22
 \T1/Roboto-LF/regular/n/10 do-ne om-be-li-ca-le stret-to at-tor-no al col-lo e
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 17--18
+Underfull \hbox (badness 1975) in paragraph at lines 22--23
 \T1/Roboto-LF/regular/n/10 can-ze che si ma-ni-fe-sta-no do-po la na-sci-
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 25--27
+Underfull \hbox (badness 1609) in paragraph at lines 30--32
 []\T1/Roboto-LF/bold/n/10 Riduzione del flus-so san-gui-gno ce-re-bra-le
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 31--32
+Underfull \hbox (badness 3364) in paragraph at lines 36--37
 []\T1/Roboto-LF/bold/n/10 Edema ci-to-tos-si-co: \T1/Roboto-LF/regular/n/10 cau
 -sa-to dal-lo stress
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 31--32
+Underfull \hbox (badness 1297) in paragraph at lines 36--37
 \T1/Roboto-LF/regular/n/10 osmo-ti-co, con con-se-guen-te ri-di-stri-bu-zio-ne
  []
 
@@ -2640,7 +2638,7 @@ Underfull \hbox (badness 1297) in paragraph at lines 31--32
 
 
 ]
-Underfull \hbox (badness 7433) in paragraph at lines 41--46
+Underfull \hbox (badness 7433) in paragraph at lines 46--51
 \T1/Roboto-LF/regular/n/10 La pre-sen-ta-zio-ne cli-ni-ca del dan-no ipossico-
  []
 
@@ -2648,226 +2646,142 @@ Underfull \hbox (badness 7433) in paragraph at lines 41--46
 Underfull \vbox (badness 1342) has occurred while \output is active []
 
  [20]
-Underfull \hbox (badness 1371) in paragraph at lines 63--64
+Underfull \hbox (badness 1371) in paragraph at lines 68--69
 [] []\T1/lmss/m/sl/10 Pat-tern di dan-no[] \T1/Roboto-LF/regular/n/10 I pat-ter
 n di dan-no ipossico-
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 70--72
+Underfull \hbox (badness 1231) in paragraph at lines 75--77
 []\T1/Roboto-LF/bold/n/10 Ipoperfusione lieve-moderata\T1/Roboto-LF/regular/n/1
 0 : il dan-no si
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 \T1/Roboto-LF/regular/n/10 ma-ni-fe-sta prin-ci-pal-men-te nel-la so-stan-za
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 \T1/Roboto-LF/regular/n/10 al-la va-sco-la-riz-za-zio-ne ven-tri-co-lo-pe-ta de
 l
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 70--72
+Underfull \hbox (badness 1400) in paragraph at lines 75--77
 \T1/Roboto-LF/regular/n/10 cer-vel-lo im-ma-tu-ro, in cui i va-si san-gui-gni
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--94
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
 []\T1/Roboto-LF/bold/n/10 Gravità del-l'in-sul-to: \T1/Roboto-LF/regular/n/10 e
 pi-so-di di ipossia-
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 92--94
+Underfull \hbox (badness 1527) in paragraph at lines 97--99
 \T1/Roboto-LF/regular/n/10 gra-ve può coin-vol-ge-re il ta-la-mo, il tron-co
  []
 
-[21]
-Underfull \hbox (badness 1831) in paragraph at lines 106--108
-[]\T1/Roboto-LF/bold/n/10 Tempistica: \T1/Roboto-LF/regular/n/10 La pseu-do-nor
--ma-liz-za-zio-ne si
- []
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 106--108
-\T1/Roboto-LF/bold/n/10 do-po l'e-ven-to ipossico-ischemico\T1/Roboto-LF/regula
-r/n/10 . Ini-zial-
- []
-
-
-Underfull \hbox (badness 1024) in paragraph at lines 106--108
-\T1/Roboto-LF/regular/n/10 stan-za di cir-ca una set-ti-ma-na, que-sto se-
- []
-
-
-Underfull \hbox (badness 1490) in paragraph at lines 114--115
-[]\T1/Roboto-LF/bold/n/10 Correlazione con al-tri pa-ra-me-tri: \T1/Roboto-LF/r
-egular/n/10 L'a-na-li-si
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 119--121
-\T1/Roboto-LF/regular/n/10 do di tem-po più lun-go, in-di-can-do la
- []
-
-
-Underfull \hbox (badness 1275) in paragraph at lines 121--122
-\T1/Roboto-LF/regular/n/10 le pri-me 3 set-ti-ma-ne di vi-ta, men-tre
- []
-
-[22]
-Underfull \hbox (badness 1755) in paragraph at lines 144--145
-[]\T1/Roboto-LF/bold/n/10 Coinvolgimento ce-re-bel-la-re: \T1/Roboto-LF/regular
-/n/10 Le se-quen-ze
- []
-
-
-Underfull \hbox (badness 1521) in paragraph at lines 144--145
-\T1/Roboto-LF/regular/n/10 SWI so-no uti-li nel-l'i-den-ti-fi-ca-re il coin-vol
--gi-
- []
-
-[23]
-Underfull \hbox (badness 1331) in paragraph at lines 160--162
-\T1/Roboto-LF/regular/n/10 può iden-ti-fi-ca-re an-che al-tri me-ta-bo-li-ti ch
-e
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
-\T1/Roboto-LF/regular/n/10 cam-bia-no a se-gui-to di dan-no ipossico-
- []
-
-
-Underfull \hbox (badness 6808) in paragraph at lines 160--162
-\T1/Roboto-LF/regular/n/10 ischemico co-me glutammina-glutammato,
- []
-
-
-Underfull \hbox (badness 7888) in paragraph at lines 160--162
-\T1/Roboto-LF/regular/n/10 aspartato (NAA), un mar-ker di in-te-gri-tà
- []
-
-
-Underfull \hbox (badness 2521) in paragraph at lines 171--173
-[]\T1/Roboto-LF/regular/n/10 La MRS ri-chie-de più tem-po ri-spet-to
- []
-
-
-Underfull \hbox (badness 1178) in paragraph at lines 173--175
-[]\T1/Roboto-LF/regular/n/10 La MRS può stu-dia-re so-lo re-gio-ni di
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 181--182
+[21] [22]
+Underfull \hbox (badness 1043) in paragraph at lines 129--130
 \T1/Roboto-LF/regular/n/10 dan-no ipossico-ischemico (HIE) nei neo-na-ti. Il
  []
 
-[24]
-Underfull \hbox (badness 1383) in paragraph at lines 210--211
+[23]
+Underfull \hbox (badness 1383) in paragraph at lines 158--159
 []\T1/Roboto-LF/regular/n/10 Riduzioni di MD so-no sta-te os-ser-va-
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 226--227
+[24]
+Underfull \hbox (badness 2486) in paragraph at lines 174--175
 []\T1/Roboto-LF/bold/n/10 ABA: \T1/Roboto-LF/regular/n/10 Uti-liz-za atlan-ti c
 e-re-bra-li per la
  []
 
-[25]
-Underfull \hbox (badness 1178) in paragraph at lines 243--245
+
+Underfull \hbox (badness 1178) in paragraph at lines 191--193
 \T1/Roboto-LF/bold/n/10 no \T1/Roboto-LF/regular/n/10 in ca-so di HIE. Que-sto 
 è fon-da-men-ta-
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 243--245
+Underfull \hbox (badness 1755) in paragraph at lines 191--193
 \T1/Roboto-LF/regular/n/10 pre-vi-sio-ne de-gli esi-ti neu-roe-vo-lu-ti-vi. L'U
 S
  []
 
 
-Underfull \hbox (badness 2980) in paragraph at lines 243--245
+Underfull \hbox (badness 2980) in paragraph at lines 191--193
 \T1/Roboto-LF/regular/n/10 può di-stin-gue-re tra di-ver-si ti-pi di le-sio-ni,
 
  []
 
 
-Underfull \hbox (badness 3492) in paragraph at lines 247--249
+Underfull \hbox (badness 3492) in paragraph at lines 195--197
 \T1/Roboto-LF/regular/n/10 lu-ta-re le \T1/Roboto-LF/bold/n/10 di-na-mi-che va-
 sco-la-ri ce-re-bra-li \T1/Roboto-LF/regular/n/10 e
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 254--256
+Underfull \hbox (badness 1173) in paragraph at lines 202--204
 \T1/Roboto-LF/regular/n/10 Può es-se-re pre-sen-ta ede-ma ce-re-bra-
  []
 
-[26]
-Underfull \hbox (badness 1721) in paragraph at lines 275--277
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \hbox (badness 1721) in paragraph at lines 223--225
 \T1/Roboto-LF/regular/n/10 ge-ren-do un ruo-lo del-l'i-po-va-sco-la-riz-za-zio-
 ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--279
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
 []\T1/Roboto-LF/bold/n/10 Eventi ipossico-ischemici: \T1/Roboto-LF/regular/n/10
  Gli even-ti
  []
 
 
-Underfull \hbox (badness 1859) in paragraph at lines 277--279
+Underfull \hbox (badness 1859) in paragraph at lines 225--227
 \T1/Roboto-LF/regular/n/10 ipossico-ischemici por-ta-no a una se-rie di
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 277--279
+Underfull \hbox (badness 3302) in paragraph at lines 225--227
 \T1/Roboto-LF/regular/n/10 even-ti a ca-sca-ta che con-tri-bui-sco-no al-lo
  []
 
 
-Underfull \hbox (badness 5504) in paragraph at lines 277--279
+Underfull \hbox (badness 5504) in paragraph at lines 225--227
 \T1/Roboto-LF/regular/n/10 per-di-ta del-l'in-te-gri-tà ca-pil-la-re. La ri-per
 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--279
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
 \T1/Roboto-LF/regular/n/10 fu-sio-ne ce-re-bra-le suc-ces-si-va al-l'e-ven-to
  []
 
 
-Underfull \vbox (badness 1748) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1077) in paragraph at lines 291--293
+Underfull \hbox (badness 1077) in paragraph at lines 239--241
 \T1/Roboto-LF/regular/n/10 lup-pa-no \T1/Roboto-LF/bold/n/10 ci-sti pe-ri-ven-t
 ri-co-la-ri \T1/Roboto-LF/regular/n/10 tra le 3 e le
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 295--296
+Underfull \hbox (badness 1019) in paragraph at lines 243--244
 \T1/Roboto-LF/regular/n/10 rat-te-riz-za-ta da \T1/Roboto-LF/bold/n/10 ven-tri-
 co-lo-me-ga-lia \T1/Roboto-LF/regular/n/10 con di-la-
  []
 
-[27]
+[26]
 
-LaTeX Warning: Marginpar on page 28 moved.
+LaTeX Warning: Marginpar on page 27 moved.
 
-)) (./Capitoli/pediatrica/metaboliche/main.tex) [28
-
-]
+)) (./Capitoli/pediatrica/metaboliche/main.tex) [27]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2900,12 +2814,27 @@ LaTeX Warning: Marginpar on page 28 moved.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [29
+ [28
 
 
 
-] [30]
-(./Appendici/AppendiceA.tex
+]
+
+Package fancyhdr Warning: \headheight is too small (0.0pt): 
+(fancyhdr)                Make it at least 13.84949pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.84949pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.84949pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 12.73pt, for example:
+(fancyhdr)                \setlength{\footskip}{12.73pt}.
+
+[29
+
+] [30] (./Appendici/AppendiceA.tex
 Appendice A.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
 (Font)              `T1/Roboto-LF/bold/n' on input line 1.
@@ -2975,7 +2904,7 @@ Here is how much of TeX's memory you used:
  77736 multiletter control sequences out of 15000+600000
  752163 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,14n,145p,2569b,1353s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,14n,145p,2977b,1353s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pf
 b></usr/local/texlive/2024/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.
@@ -2991,7 +2920,7 @@ cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive
 /2024/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2024/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2024/t
 exmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on neuroradiologia_clinica.pdf (39 pages, 573876 bytes).
+Output written on neuroradiologia_clinica.pdf (39 pages, 572541 bytes).
 PDF statistics:
  493 PDF objects out of 1000 (max. 8388607)
  377 compressed objects within 4 object streams

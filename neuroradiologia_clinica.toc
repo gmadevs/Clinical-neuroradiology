@@ -68,16 +68,16 @@
 \contentsline {subsubsection}{RM}{20}{subsubsection*.16}%
 \contentsline {paragraph}{Pattern di danno}{21}{paragraph*.17}%
 \contentsline {paragraph}{DWI}{22}{paragraph*.18}%
-\contentsline {paragraph}{SWI}{23}{paragraph*.19}%
+\contentsline {paragraph}{SWI}{22}{paragraph*.19}%
 \contentsline {paragraph}{Spettroscopia}{23}{paragraph*.20}%
-\contentsline {paragraph}{DTI}{24}{paragraph*.21}%
-\contentsline {subsubsection}{Ecografia}{26}{subsubsection*.22}%
+\contentsline {paragraph}{DTI}{23}{paragraph*.21}%
+\contentsline {subsubsection}{Ecografia}{25}{subsubsection*.22}%
 \contentsline {subsection}{\numberline {2.1.8}Trattamento e prognosi}{26}{subsection.2.1.8}%
 \contentsline {subsubsection}{Sequele neurologiche}{26}{subsubsection*.23}%
 \contentsline {paragraph}{Leucomalacia periventricolare}{26}{paragraph*.24}%
-\contentsline {paragraph}{Altre sequele}{28}{paragraph*.25}%
-\contentsline {subsection}{\numberline {2.1.9}Checklist di refertazione}{28}{subsection.2.1.9}%
-\contentsline {subsection}{\numberline {2.1.10}Bibliografia}{28}{subsection.2.1.10}%
+\contentsline {paragraph}{Altre sequele}{27}{paragraph*.25}%
+\contentsline {subsection}{\numberline {2.1.9}Checklist di refertazione}{27}{subsection.2.1.9}%
+\contentsline {subsection}{\numberline {2.1.10}Bibliografia}{27}{subsection.2.1.10}%
 \partbegin 
 \ttl@change@i {\@ne }{chapter}{2.5pc}{\addvspace {15pt}}{\begin {tikzpicture} \pgftext {\LArge \bfseries \bfseries \color {black}\hspace {-1cm} Appendice\ \thecontentslabel {\color {white}.}\hspace {.5cm} } \end {tikzpicture}\Large }{}{\color {black}\titlerule \; \;\Large \bfseries Pagina \thecontentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
