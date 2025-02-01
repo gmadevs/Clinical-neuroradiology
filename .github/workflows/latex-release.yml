@@ -23,7 +23,7 @@ jobs:
           root_file: main.tex
           compiler: pdflatex
 
-       - name: Verifica i file presenti
+      - name: Verifica i file presenti
         run: ls -R  # 🔥 Controlla se la cartella "Immagini/" è presente
 
       - name: Read version and changelog from file
