@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # ✅ Permessi per creare una release
+  contents: write  # Permessi per creare la release
 
 jobs:
   build_latex:
@@ -23,9 +23,15 @@ jobs:
           root_file: main.tex
           compiler: pdflatex
 
-      - name: Read version from file
+      - name: Read version and changelog from file
         id: get_version
-        run: echo "VERSION=$(cat version.txt)" >> $GITHUB_ENV
+        run: |
+          VERSION=$(head -n1 version.txt)  # Prima riga = numero versione
+          CHANGELOG=$(tail -n +2 version.txt | sed 's/^# //')  # Rimuove il simbolo # dai commenti
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
+          echo "CHANGELOG<<EOF" >> $GITHUB_ENV
+          echo "$CHANGELOG" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
@@ -33,6 +39,6 @@ jobs:
           files: main.pdf
           tag_name: ${{ env.VERSION }}
           release_name: "Release ${{ env.VERSION }}"
-          body: "Versione ${{ env.VERSION }} del documento PDF."
+          body: "${{ env.CHANGELOG }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

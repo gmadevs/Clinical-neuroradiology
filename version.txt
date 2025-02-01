@@ -1,1 +1,4 @@
-v0.0.1
+v0.0.2
+# Fixato bug di compilazione
+# Aggiunte immagini nel documento
+# Migliorato il layout della pagina iniziale
