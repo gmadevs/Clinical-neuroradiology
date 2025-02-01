@@ -42,3 +42,4 @@ jobs:
           body: "${{ env.CHANGELOG }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TEXINPUTS: ".:./Immagini//:"
