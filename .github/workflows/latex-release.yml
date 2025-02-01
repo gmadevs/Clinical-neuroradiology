@@ -4,7 +4,10 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:  # Permette di avviare il workflow manualmente
+  workflow_dispatch:
+
+permissions:
+  contents: write  # ✅ Permessi per creare una release
 
 jobs:
   build_latex:
@@ -18,8 +21,7 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: main.tex
-          compiler: pdflatex  # Puoi usare xelatex o lualatex se necessario
-          latexmk_use_lualatex: false
+          compiler: pdflatex
 
       - name: Read version from file
         id: get_version
