@@ -26,7 +26,7 @@ jobs:
           root_file: main.tex
           compiler: pdflatex
 
-      - name: Read version and changelog from file
+      - name: Aggiorna versione e changelog
         id: get_version
         run: |
           VERSION=$(head -n1 version.txt)  # Prima riga = numero versione
@@ -36,7 +36,7 @@ jobs:
           echo "$CHANGELOG" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
 
-      - name: Create GitHub Release
+      - name: Crea la release su GitHub
         uses: softprops/action-gh-release@v2
         with:
           files: main.pdf
