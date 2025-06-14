@@ -19,21 +19,6 @@ Throughout the book, you'll find specialized, color-coded text boxes designed to
 * **Purple boxes:** Provide crucial practical points, offering tips and insights for real-world application in your daily work.
 * **Blue boxes:** Highlight essential radiological signs, drawing your attention to key imaging features critical for accurate interpretation.
 
-Here are examples of these color-coded blocks:
-
-```latex
-\begin{tcolorbox}[colback=blue!5!white,colframe=blue!75!white,title=Radiological sign]
-	Radiological sign
-\end{tcolorbox}
-
-\begin{tcolorbox}[colback=green!5!white,colframe=green!75!white,title=Differential diagnosis]
-	Differential diagnosis
-\end{tcolorbox}
-
-\begin{tcolorbox}[colback=purple!5!white,colframe=purple!75!white,title=Practical points]
-	Practical points
-\end{tcolorbox}
-```
 ## 📖 Book Structure
 The book is meticulously structured to guide you through the breadth of neuroradiology, starting with foundational knowledge and progressing to complex pathologies.
 
@@ -47,9 +32,11 @@ Section 7: Congenital Malformations and Genetic Tumor Syndromes: Concludes the b
 This logical progression is designed to provide a cohesive and thorough learning experience across all major neuroradiological domains.
 
 ## 🛠️ How to Use This Repository
+
 ### To Consult the Book
 1. Visit the [Releases](https://github.com/gmadevs/Clinical-neuroradiology/releases) section.
 2. Download the PDF chapters or the complete book.
+
 ### To Contribute
 1. Fork the repository.
 2. Create a branch for your modifications: `git checkout -b your-branch-name`.
@@ -60,7 +47,7 @@ This logical progression is designed to provide a cohesive and thorough learning
 
 ```
 root/
-├── *.tex/  				  # File LaTeX for every chapter
+├── *.tex/  				  # LaTeX files for every chapter
 ├── img             	      # Images and figures (hosted on GDrive)
 ├── main.tex                  # Main document template
 └── README.md                 # This file
