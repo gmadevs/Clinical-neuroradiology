@@ -47,10 +47,10 @@ This logical progression is designed to provide a cohesive and thorough learning
 
 ```
 root/
-├── *.tex  				          # LaTeX files for every chapter
-├── img             	      # Images and figures (hosted on GDrive)
-├── main.tex                # Main document template
-└── README.md               # This file
+├── *.tex      # LaTeX files for every chapter
+├── img        # Images and figures (hosted on GDrive)
+├── main.tex   # Main document template
+└── README.md  # This file
 ```
 
 ## ⚙️ Dependencies
