@@ -1,0 +1,121 @@
+\documentclass[oneside,a4paper,11pt,explicit,twocolumn]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[sedes]{kultem}
+\usepackage[english]{babel}
+\usepackage[sfdefault]{roboto}  %% Option 'sfdefault' only if the base font of the document is to be sans serif
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{tcolorbox}
+\usepackage{minitoc}
+\setcounter{minitocdepth}{2}
+% \usepackage[dutch]{babel}
+\renewcommand{\mtctitle}{}
+% Font e stile normale per il titolo
+%\renewcommand{\mtctitlefont}{\normalsize\normalfont}
+
+% Font e stile normale per il contenuto (le voci)
+\renewcommand{\mtcfont}{\normalsize\normalfont}
+\renewcommand{\mtcSfont}{\normalsize\normalfont}
+%% INSERT YOUR PACKAGES HERE
+\usepackage[accsupp]{axessibility}  % improves PDF readability for those with disabilities.
+\usepackage[hidelinks]{hyperref}
+\usepackage{listings}
+
+%% TITLE PAGE OPTIONS (only works with \maketitle is called in the document)
+\title{Diagnostic neuroradiology}
+\subtitle{1st edition}
+\date{\today}
+\author{Giorgio Maria Agazzi}
+%\professor{Prof. Nomen Nescio}
+
+%% DOCUMENT
+\begin{document}
+
+\dominitoc  % Abilita minitoc per ogni capitolo
+\maketitle
+\tableofcontents
+
+\input{preface}
+\part{General imaging principles}
+\input{introduction}
+\input{general-neuroanatomy}
+\input{spine-anatomy}
+\input{cns-embryology}
+\input{general-neurology}
+\input{imaging-patterns}
+\part{Incidental/anatomical variants}
+\input{anatomical-variants}
+\input{common-incidental-findings}
+\part{Trauma}
+\input{trauma-introduction}
+\input{trauma-primary}
+\input{trauma-secondary}
+\part{Vascular pathology}
+\input{nontraumatic-hemorrhage}
+\input{spontaneous-parenchymal-hemorrhage}
+\input{ischaemic-stroke}
+\input{brain-death}
+\input{intracranial-aneurysm}
+\input{vascular-malformations}
+\input{venous-stroke}
+\input{vasculopathy}
+\part{Infective disease}
+\input{congenital-pyogenic-viral-infection}
+\input{tuberculosis-fungal-parasitic}
+\input{hiv-aids}
+\part{Inflammatory and demyelinating disease}
+\input{demyelinating-and-inflammatory-diseases}
+\part{Neuro-oncology}
+\input{neoplasms-cysts-and-tumor-like-lesions}
+\input{introduction-to-cns-neoplasms-and-nonneoplastic-cysts}
+\input{adult-type-diffuse-gliomas}
+\input{pediatric-type-diffuse-low-grade-gliomas}
+\input{pediatric-type-diffuse-high-grade-gliomas}
+\input{circumscribed-astrocytic-gliomas}
+\input{glioneuronal-and-neuronal-tumors}
+\input{ependymal-tumors}
+\input{choroid-plexus-tumors}
+\input{embryonal-tumor}
+\input{pineal-and-germ-cell-tumors}
+\input{cranial-nerve-tumors}
+\input{meningiomas-and-melanocytic-lesions}
+\input{mesenchymal-nonmeningothelial-tumors}
+\input{hematolymphoid-and-hematopoietic-tumors}
+\input{pituitary-tumors}
+\input{metastases-and-paraneoplastic-syndromes}
+\input{nonneoplastic-cysts}
+\input{miscellaneous-tumors-and-tumor-like-conditions}
+\part{Toxic/metabolic disease}
+\input{approach-to-toxic-metabolic-degenerative-and-csf-disorders}
+\input{toxic-encephalopathy}
+\input{inherited-metabolic-disorders}
+\input{acquired-metabolic-and-systemic-disorders}
+\part{Epilepsy}
+\input{neuroradiological-evaluation-of-patients-with-seizures}
+\input{temporal-lobe-epilepsy-and-neuroimaging}
+\input{neuroimaging-evaluation-in-neocortical-epilepsies}
+\input{status-epilepticus}
+\input{surgical-and-post-surgical-evaluation-of-epilepsy}
+\part{Dementia}
+\input{dementias-and-brain-degenerations}
+\input{movement-disorders}
+\input{hydrocephalus-and-csf-disorders}
+\part{Pediatric radiology}
+\input{approach-to-congenital-malformations}
+\input{posterior-fossa-malformations}
+\input{commissural-and-cortical-maldevelopment}
+\input{holoprosencephalies-related-disorders-and-mimics}
+\input{genetic-tumor-syndromes-involving-the-cns}
+\input{vascular-neurocutaneous-syndromes}
+\input{bone-disease}
+\input{metabolic-disease}
+\input{lysosomial-storage}
+\input{muscular-distrophy}
+\input{genetic-disease}
+\part{Orbital imaging}
+\input{inflammatory-orbit}
+\part{Spine imaging}
+\input{hydrosyringomielia}
+\part{Peripheral nerve imaging}
+\input{peripheral-nerve}
+\end{document}
