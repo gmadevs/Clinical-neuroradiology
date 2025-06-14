@@ -1,81 +1,118 @@
-# Neuroradiologia Clinica - I Edizione
+# Clinical Neuroradiology - 1st Edition
 
-Benvenuto nella repository ufficiale del libro **"Neuroradiologia Clinica"**, un progetto open source scritto interamente in LaTeX per supportare lo studio e l'apprendimento della neuroradiologia. Questo progetto mira a fornire una risorsa completa e gratuita, accessibile per specializzandi e medici specialisti.
+Welcome to the official repository for **"Clinical Neuroradiology"**, an open-source book entirely written in LaTeX to support the study and learning of neuroradiology. This project aims to provide a comprehensive and free resource, accessible to residents and specialized medical professionals.
 
-## 📚 Contenuti della Repository
+This book is designed as an essential guide to neuroradiology for residents and new specialists. It aims to cut through the complexity of neuroimaging, offering an accessible, practical resource for daily practice and board preparation.
 
-- **Codice sorgente in LaTeX:** Ogni capitolo del libro è scritto in formato LaTeX per garantire un'elevata qualità tipografica.
-- **Release PDF:** Le versioni finali dei capitoli e del libro completo sono disponibili nella sezione [Releases](https://github.com/gmadevs/Neuroradiologia-Clinica/releases).
+## 📚 Repository Contents
 
-## 🛠️ Come Usare Questa Repository
+* **LaTeX Source Code:** Each chapter of the book is written in LaTeX format to ensure high typographical quality.
+* **PDF Releases:** Final versions of chapters and the complete book are available in the [Releases](https://github.com/gmadevs/Clinical-neuroradiology/releases) section.
 
-### Per Consultare il Libro
-1. Visita la sezione [Releases](https://github.com/gmadevs/Neuroradiologia-Clinica/releases).
-2. Scarica i PDF dei capitoli o il libro completo.
+## 🌟 Key Features & Learning Aids
 
-### Per Contribuire
-1. Fai un fork della repository.
-2. Crea un branch per le tue modifiche: `git checkout -b nome-branch`.
-3. Fai le tue modifiche ai file sorgente in LaTeX.
-4. Manda una pull request spiegando chiaramente il tuo contributo.
+Drawing heavily from the rich, peer-reviewed knowledge base of Radiopaedia.org, and supplemented by carefully selected open-access articles, this book ensures access to high-quality, up-to-date information.
 
-## 🗂️ Struttura del Progetto
+Throughout the book, you'll find specialized, color-coded text boxes designed to enhance your learning and provide quick reference:
+
+* **Green boxes:** Dedicated to differential diagnoses, helping you consider various possibilities for a given imaging finding.
+* **Purple boxes:** Provide crucial practical points, offering tips and insights for real-world application in your daily work.
+* **Blue boxes:** Highlight essential radiological signs, drawing your attention to key imaging features critical for accurate interpretation.
+
+Here are examples of these color-coded blocks:
+
+```latex
+\begin{tcolorbox}[colback=blue!5!white,colframe=blue!75!white,title=Radiological sign]
+	Radiological sign
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=green!5!white,colframe=green!75!white,title=Differential diagnosis]
+	Differential diagnosis
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=purple!5!white,colframe=purple!75!white,title=Practical points]
+	Practical points
+\end{tcolorbox}
+```
+## 📖 Book Structure
+The book is meticulously structured to guide you through the breadth of neuroradiology, starting with foundational knowledge and progressing to complex pathologies.
+
+Introductory Section: Covers essential neuroanatomy, fundamental neurological concepts, and indispensable radiological techniques.
+Section 2: Trauma: Delves into the critical imaging aspects of head and spinal injuries.
+Section 3: Vascular: Explores the wide spectrum of cerebrovascular diseases, from acute stroke to vascular malformations.
+Section 4: Infection, Inflammation, and Demyelinating Diseases: Provides a detailed approach to infectious and inflammatory conditions, including pyogenic, viral, fungal, and parasitic infections, as well as demyelinating and other inflammatory processes.
+Section 5: Neoplasms, Cysts, and Tumor-Like Lesions: Offers a systematic review of central nervous system tumors, encompassing everything from diffuse gliomas and neuronal tumors to meningiomas, metastases, and various non-neoplastic cysts.
+Section 6: Toxic, Metabolic, Degenerative, and CSF Disorders: Addresses a range of conditions, including toxic encephalopathies, inherited and acquired metabolic disorders, dementias, and hydrocephalus.
+Section 7: Congenital Malformations and Genetic Tumor Syndromes: Concludes the book with an in-depth look at developmental anomalies of the brain and spine, along with associated genetic and neurocutaneous syndromes.
+This logical progression is designed to provide a cohesive and thorough learning experience across all major neuroradiological domains.
+
+## 🛠️ How to Use This Repository
+### To Consult the Book
+1. Visit the [Releases](https://github.com/gmadevs/Clinical-neuroradiology/releases) section.
+2. Download the PDF chapters or the complete book.
+### To Contribute
+1. Fork the repository.
+2. Create a branch for your modifications: `git checkout -b your-branch-name`.
+3. Make your changes to the LaTeX source files.
+4. Submit a pull request, clearly explaining your contribution.
+
+## 🗂️ Project structure
 
 ```
 root/
-├── neuroradiologia-clinica/  # File LaTeX dei capitoli individuali
-├── Immagini                  # Immagini e figure
-├── *.pdf/                    # File principale del libro completo
-├── template.tex              # Template per nuovi capitoli
-└── README.md                 # Questo file
+├── *.tex/  				  # File LaTeX for every chapter
+├── img             	      # Images and figures (hosted on GDrive)
+├── main.tex                  # Main document template
+└── README.md                 # This file
 ```
 
-## ⚙️ Dipendenze
+## ⚙️ Dependencies
 
-Le immagini del libro per non appesantire la repository sono hostate a parte in una cartella GDrive che trovi qui: scaricala e copia i file dentro la cartella "FileAusiliari/Immagini"
+Images are hosted separately, you can download them from this GDrive and paste them into the root folder
 
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
-Per compilare i file LaTeX, assicurati di avere installato:
+To compile the file verify to have:
 - [TeX Live](https://www.tug.org/texlive/) o [MikTeX](https://miktex.org/)
-- Un editor LaTeX come [Overleaf](https://www.overleaf.com/) o [TeXstudio](https://www.texstudio.org/)
+- A latex editor like [Overleaf](https://www.overleaf.com/) o [TeXstudio](https://www.texstudio.org/)
 
-## 🏅 Badge e Sticker
+## 🏅 Badges
 
 ![Awesome Project](https://img.shields.io/badge/awesome-project-green)
-![Build Status](https://img.shields.io/github/actions/workflow/status/gmadevs/Neuroradiologia-Clinica/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/gmadevs/Neuroradiologia-Clinica)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/gmadevs/Neuroradiologia-Clinica)
-![GitHub All Releases](https://img.shields.io/github/downloads/gmadevs/Neuroradiologia-Clinica/total)  
+![Build Status](https://img.shields.io/github/actions/workflow/status/gmadevs/Clinical-neuroradiology/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/gmadevs/Clinical-neuroradiology)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/gmadevs/Clinical-neuroradiology)
+![GitHub All Releases](https://img.shields.io/github/downloads/gmadevs/Clinical-neuroradiology/total)  
 ![PDF Available](https://img.shields.io/badge/PDF-Available-blue)
 ![Chapters](https://img.shields.io/badge/Chapters-0-blue)  
 ![Creative Commons License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-lightgrey)  
-![GitHub stars](https://img.shields.io/github/stars/gmadevs/Neuroradiologia-Clinica?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/gmadevs/Clinical-neuroradiology?style=social)  
 
 
-## 📜 Licenza
+## 📜 License
 
-Questo progetto è distribuito sotto la licenza [CC4.0](LICENSE). Sentiti libero di utilizzarlo, modificarlo e condividerlo, rispettando i termini della licenza.
-Le immagini contenute all'interno del libro sono state ottenute da [Radiopaedia](https://radiopaedia.org) o da [PubMed Central](https://pmc.ncbi.nlm.nih.gov/).
+This project is distributed under the [CC4.0](LICENSE) license. Feel free to use, modify, and share it, subject to the terms of the license.
+The images contained in the book were obtained from [Radiopaedia](https://radiopaedia.org) or [PubMed Central](https://pmc.ncbi.nlm.nih.gov/).
+
+---
+### ✉️ Contacts
+
+If you have any questions or suggestions, please don't hesitate to contact us by opening an [Issue](https://github.com/gmadevs/Clinical-neuroradiology/issues).
+Or write to giorgiomaria.agazzi@gmail.com
+Use also the discussion board in the Github page
+We have a Discord server here (add badge and Discord server)
 
 ---
 
-### ✉️ Contatti
-
-Per domande o suggerimenti, non esitare a contattarci aprendo una [Issue](https://github.com/gmadevs/Neuroradiologia-Clinica/issues).
-Oppure scrivi a giorgiomaria.agazzi@gmail.com
-
----
-
-Ti piace il progetto? 🌟 Supportaci lasciando una stella a questa repository!
+Do you like the project? 🌟 Support leaving a star!
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
-### 📊 Statistiche
+### 📊 Statistics
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/gmadevs/Neuroradiologia-Clinica)](https://github.com/gmadevs/Neuroradiologia-Clinica/commits)
-[![GitHub repo size](https://img.shields.io/github/repo-size/gmadevs/Neuroradiologia-Clinica)](https://github.com/gmadevs/Neuroradiologia-Clinica)
-[![GitHub contributors](https://img.shields.io/github/contributors/gmadevs/Neuroradiologia-Clinica)](https://github.com/gmadevs/Neuroradiologia-Clinica/graphs/contributors)
-[![GitHub all releases](https://img.shields.io/github/downloads/gmadevs/Neuroradiologia-Clinica/total)](https://github.com/gmadevs/Neuroradiologia-Clinica/releases)
-[![GitHub release (latest by date)](https://img.shields.io/github/downloads/gmadevs/Neuroradiologia-Clinica/latest/total)](https://github.com/gmadevs/Neuroradiologia-Clinica/releases/latest)
+[![GitHub last commit](https://img.shields.io/github/last-commit/gmadevs/Clinical-neuroradiology)](https://github.com/gmadevs/Clinical-neuroradiology/commits)
+[![GitHub repo size](https://img.shields.io/github/repo-size/gmadevs/Clinical-neuroradiology)](https://github.com/gmadevs/Clinical-neuroradiology)
+[![GitHub contributors](https://img.shields.io/github/contributors/gmadevs/Clinical-neuroradiology)](https://github.com/gmadevs/Clinical-neuroradiology/graphs/contributors)
+[![GitHub all releases](https://img.shields.io/github/downloads/gmadevs/Clinical-neuroradiology/total)](https://github.com/gmadevs/Clinical-neuroradiology/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/gmadevs/Clinical-neuroradiology/latest/total)](https://github.com/gmadevs/Clinical-neuroradiology/releases/latest)
 
